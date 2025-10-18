@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BTT Practice</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Singapore BTT Practice</h1>
+
+      <section id="quiz" class="card">
+        <div class="meta">
+          <div class="row">
+            <span id="scoreText">Score: 0/0 (0%)</span>
+            <span id="progressText">Progress: 0/0</span>
+          </div>
+          <div class="progress"><div id="progressBar" class="progress-bar"></div></div>
+        </div>
+        <div id="status" class="status">Loading questions…</div>
+        <div id="qid" class="qid"></div>
+        <div id="media" class="media"></div>
+        <div id="question" class="question"></div>
+        <div id="options" class="options"></div>
+
+        <div class="controls">
+          <button id="nextBtn" class="btn" disabled>Next Question</button>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <p>
+          Data files expected: <code>questions.json</code> and
+          <code>answers.json</code> in the same folder.
+        </p>
+      </footer>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+  </html>

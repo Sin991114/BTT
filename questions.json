@@ -1,0 +1,5153 @@
+[
+  {
+    "id": 1,
+    "question": "The sign indicates",
+    "options": [
+      "no sounding of horn at all times.",
+      "no sounding of horn except to prevent accident.",
+      "no sounding of horn except to insist right of way."
+    ],
+    "images": [
+      "assets/images/q1_1.png"
+    ]
+  },
+  {
+    "id": 2,
+    "question": "The sign indicates",
+    "options": [
+      "uneven road ahead.",
+      "road hump ahead.",
+      "roundabout ahead."
+    ],
+    "images": [
+      "assets/images/q2_1.png"
+    ]
+  },
+  {
+    "id": 3,
+    "question": "The sign indicates",
+    "options": [
+      "No parking for motorcycles.",
+      "No entry for motorcycles.",
+      "No entry for pedal cycles."
+    ],
+    "images": [
+      "assets/images/q3_1.png"
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Upon seeing a green B light, you should ______",
+    "options": [
+      "proceed if your vehicle is not an omnibus.",
+      "proceed if your vehicle is an omnibus.",
+      "give way to vehicles behind."
+    ],
+    "images": [
+      "assets/images/q4_1.png"
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is referred to as \"blind spot\"?",
+    "options": [
+      "area on the right and left of the vehicle which cannot be seen in the wing mirrors",
+      "area on the rear of the vehicle which cannot be seen in the rear mirror",
+      "area at the forefront of the vehicle which cannot be seen once you are seated in the vehicle"
+    ],
+    "images": [
+      "assets/images/q5_1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "question": "At a traffic light controlled junction, the light turns green. You should",
+    "options": [
+      "check left and right for any approaching vehicles before moving off.",
+      "accelerate and move off immediately so as not be cause any obstruction.",
+      "move to the side of the road."
+    ],
+    "images": [
+      "assets/images/q6_1.png"
+    ]
+  },
+  {
+    "id": 7,
+    "question": "If you are dazzled by the lights of an oncoming vehicle",
+    "options": [
+      "accelerate and bypass it.",
+      "slow down and stop if necessary.",
+      "offset the glare by flashing your high beam."
+    ],
+    "images": [
+      "assets/images/q7_1.png"
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How should you react to an amber traffic light?",
+    "options": [
+      "stop, unless you are too close to the stop-line to stop safely.",
+      "stop, regardless of the situation.",
+      "accelerate and pass the junction quickly."
+    ],
+    "images": [
+      "assets/images/q8_1.png"
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Driving licences are classified based on the different types of motor vehicles and all together there are ______ classes of driving licence in Singapore.",
+    "options": [
+      "6",
+      "9",
+      "12"
+    ],
+    "images": [
+      "assets/images/q9_1.png"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "How long does the QDL Valid for (Qualified Driving Licence)?",
+    "options": [
+      "1 Year",
+      "10 year",
+      "Life Time"
+    ],
+    "images": [
+      "assets/images/q10_1.png"
+    ]
+  },
+  {
+    "id": 11,
+    "question": "What might happen if the steering assembly is too loose?",
+    "options": [
+      "You might lose control of the vehicle.",
+      "The vehicle may stop by itself.",
+      "The vehicle may skid all the way."
+    ],
+    "images": [
+      "assets/images/q11_1.png"
+    ]
+  },
+  {
+    "id": 12,
+    "question": "You hear a fire engine siren approaching from oncoming traffic, you should",
+    "options": [
+      "slow down and keep to the left.",
+      "stop immediately.",
+      "maintain the speed, as you are not in its way."
+    ],
+    "images": [
+      "assets/images/q12_1.png"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Road signs and signals are meant mainly for",
+    "options": [
+      "pedestrians.",
+      "the traffic police.",
+      "motorists."
+    ],
+    "images": [
+      "assets/images/q13_1.png"
+    ]
+  },
+  {
+    "id": 14,
+    "question": "When you see a dog sitting right in the middle of your travelling path, you should:",
+    "options": [
+      "slow down and horn to let it walk away.",
+      "slow down and stop if necessary to wait for it to go away.",
+      "slow down and steer around it to pass through."
+    ],
+    "images": [
+      "assets/images/q14_1.png"
+    ]
+  },
+  {
+    "id": 15,
+    "question": "When can you overtake on the left?",
+    "options": [
+      "never.",
+      "When you want to turn left at a junction.",
+      "when the driver in front has signaled his intention to turn left."
+    ],
+    "images": [
+      "assets/images/q15_1.png"
+    ]
+  },
+  {
+    "id": 16,
+    "question": "If your vehicle runs out of fuel on the way,",
+    "options": [
+      "You should use a plastic bag or container to top up.",
+      "You should go to the nearest Petrol station for help.",
+      "You should borrow from some other vehicles."
+    ],
+    "images": [
+      "assets/images/q16_1.png"
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Can you drive motorcycle if you only have a car license?",
+    "options": [
+      "yes",
+      "no",
+      "depends on situation"
+    ],
+    "images": [
+      "assets/images/q17_1.png"
+    ]
+  },
+  {
+    "id": 18,
+    "question": "The purpose of the chevron marking is ______",
+    "options": [
+      "to park broken down vehicles.",
+      "to channel traffic.",
+      "for emergency."
+    ],
+    "images": [
+      "assets/images/q18_1.png"
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is not allowed at petrol stations?",
+    "options": [
+      "Smoking.",
+      "Using handphone next to pumps.",
+      "Both of the above (A and B) are not allowed."
+    ],
+    "images": [
+      "assets/images/q19_1.png"
+    ]
+  },
+  {
+    "id": 20,
+    "question": "What are the consequences of tailgating?",
+    "options": [
+      "driver in front will drive faster",
+      "driver in front of you may become nervous,stop suddenly and accident might occur",
+      "no consequences"
+    ],
+    "images": [
+      "assets/images/q20_1.png"
+    ]
+  },
+  {
+    "id": 21,
+    "question": "What should you do to allow your car to stop in an emergency without skidding or losing control?",
+    "options": [
+      "drive slowly.",
+      "drive fast but carefully",
+      "constantly adjust speed of car to conditions on road"
+    ],
+    "images": [
+      "assets/images/q21_1.png"
+    ]
+  },
+  {
+    "id": 22,
+    "question": "when can you stop on the road shoulder?",
+    "options": [
+      "when you need to give way to large vehicles",
+      "when your vehicle has broken down",
+      "when you are sick and tired"
+    ],
+    "images": [
+      "assets/images/q22_1.png"
+    ]
+  },
+  {
+    "id": 23,
+    "question": "What happen if you are caught using mobile phone while driving",
+    "options": [
+      "charged in court, fine and jail",
+      "fine only",
+      "fine or jail or both"
+    ],
+    "images": [
+      "assets/images/q23_1.png"
+    ]
+  },
+  {
+    "id": 24,
+    "question": "The light turns green at a traffic light controlled junction, you should ______",
+    "options": [
+      "speed up and move off immediately so as not to cause obstruction.",
+      "check any approaching vehicles before moving off.",
+      "move off after waiting for 10 seconds."
+    ],
+    "images": [
+      "assets/images/q24_1.png"
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Road hogging is:",
+    "options": [
+      "driving at a fast speed on the center lane.",
+      "driving at slow speed on the left lane.",
+      "driving at slow speed along the center of the road and cause obstruction."
+    ],
+    "images": [
+      "assets/images/q25_1.png"
+    ]
+  },
+  {
+    "id": 26,
+    "question": "If you are traveling at a speed of 80km/h, how many vehicle(s) length at least should be adhered to between your vehicle and the vehicle in front?",
+    "options": [
+      "10",
+      "8",
+      "5"
+    ],
+    "images": [
+      "assets/images/q26_1.png"
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Which of the following people can not drive?",
+    "options": [
+      "Pregnant women",
+      "drunk people",
+      "students"
+    ],
+    "images": [
+      "assets/images/q27_1.png"
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Which of the following statement is correct about Mandatory signs?",
+    "options": [
+      "Mandatory signs are usually squarish with blue backgrounds.",
+      "Mandatory signs are usually circular with blue backgrounds.",
+      "Mandatory signs are usually rectangular with blue backgrounds."
+    ],
+    "images": [
+      "assets/images/q28_1.png"
+    ]
+  },
+  {
+    "id": 29,
+    "question": "What should you do when your wheels mount the kerb while turning?",
+    "options": [
+      "step hard on the accelerator and drive over the herb.",
+      "reverse slowly and try turning again.",
+      "switch on the hazard lights and sound the horn."
+    ],
+    "images": [
+      "assets/images/q29_1.png"
+    ]
+  },
+  {
+    "id": 30,
+    "question": "Single yellow zig-zag line means:",
+    "options": [
+      "cannot stop at all.",
+      "cannot stop on Sundays and public holidays.",
+      "can only stop for boarding and alighting."
+    ],
+    "images": [
+      "assets/images/q30_1.png"
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Is it ok to make a mobile phone call while you are driving on the expressway?",
+    "options": [
+      "Yes, if it is under emergencies.",
+      "No, should never do that.",
+      "Yes, but it will be an offence."
+    ],
+    "images": [
+      "assets/images/q31_1.png"
+    ]
+  },
+  {
+    "id": 32,
+    "question": "Upon seeing this sign, you should",
+    "options": [
+      "speed up to cross.",
+      "slow down, gate might be closing.",
+      "stop, wait for gate to close."
+    ],
+    "images": [
+      "assets/images/q32_1.png"
+    ]
+  },
+  {
+    "id": 33,
+    "question": "You are passing a bus at a bus stop that is letting down passengers. What should you do?",
+    "options": [
+      "You should continue with constant speed so you won't confuse the bus driver.",
+      "You should slow down because there might be passengers crossing the road.",
+      "You should stop, wait until the bus gets out of the bus stop and back to the road again."
+    ],
+    "images": [
+      "assets/images/q33_1.png"
+    ]
+  },
+  {
+    "id": 34,
+    "question": "Can motorists drive on normal bus lane on Saturday mornings?",
+    "options": [
+      "Yes, motorists can drive on normal bus lanes on Saturday mornings",
+      "No, motorists cannot drive on normal bus lanes on Saturday mornings",
+      "No, if it is during 7:30am-9:30am; only after 9:30am then Yes"
+    ],
+    "images": [
+      "assets/images/q34_1.png"
+    ]
+  },
+  {
+    "id": 35,
+    "question": "It is unsafe to drive even when alcohol intake is minimal.",
+    "options": [
+      "True",
+      "False",
+      "True, if you are an inexperienced driver"
+    ],
+    "images": [
+      "assets/images/q35_1.png"
+    ]
+  },
+  {
+    "id": 36,
+    "question": "When a broken white line is in the centre of a two-way road?",
+    "options": [
+      "Vehicle should keep right on this road",
+      "Vehicle should keep left on this road",
+      "Vehicle should never cross the centre line"
+    ],
+    "images": [
+      "assets/images/q36_1.png"
+    ]
+  },
+  {
+    "id": 37,
+    "question": "Which one of following statement is false?",
+    "options": [
+      "You should not drive if you have consumed medicine that may cause giddiness",
+      "You should not drive if you have consumed alcohol",
+      "You should not drive if you have worked night shift"
+    ],
+    "images": [
+      "assets/images/q37_1.png"
+    ]
+  },
+  {
+    "id": 38,
+    "question": "What should you do when you are approaching a flashing beacon?",
+    "options": [
+      "Speed up",
+      "Stop the car",
+      "Slow down and drive with extra care"
+    ],
+    "images": [
+      "assets/images/q38_1.png"
+    ]
+  },
+  {
+    "id": 39,
+    "question": "When can you use bus lanes?",
+    "options": [
+      "Outside of restricted hours.",
+      "When there are no buses around.",
+      "Bus lanes must never be used by cars."
+    ],
+    "images": [
+      "assets/images/q39_1.png"
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Which Gear has the highest Speed?",
+    "options": [
+      "Gear 1",
+      "Gear 3",
+      "Gear 5"
+    ],
+    "images": [
+      "assets/images/q40_1.png"
+    ]
+  },
+  {
+    "id": 41,
+    "question": "What does EMAS stand for?",
+    "options": [
+      "electronic monitory & advisory system",
+      "expressway monitoring & advisory system",
+      "emergency monitory & advisory system"
+    ],
+    "images": [
+      "assets/images/q41_1.png"
+    ]
+  },
+  {
+    "id": 42,
+    "question": "The sign indicates",
+    "options": [
+      "no stopping unless to let down or pick up passengers.",
+      "strictly no stopping at all times.",
+      "strictly no entry at all times."
+    ],
+    "images": [
+      "assets/images/q42_1.png"
+    ]
+  },
+  {
+    "id": 43,
+    "question": "You want to park on the side of a road with a yellow zig-zag line. Is this allowed?",
+    "options": [
+      "Yes, it always allowed",
+      "Yes, but only before 7.00am or after 7.00pm and on Sundays & public holidays",
+      "No, never"
+    ],
+    "images": [
+      "assets/images/q43_1.png"
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Which one of the following statement is INCORRECT?",
+    "options": [
+      "It is dangerous to drive with the interior lights on.",
+      "It is a good idea to leave your side lights on when parking in unlit or poorly lit roads.",
+      "look directly at the headlights will get you a better picture of oncoming vehicles."
+    ],
+    "images": [
+      "assets/images/q44_1.png"
+    ]
+  },
+  {
+    "id": 45,
+    "question": "How often should you check the rear view mirror while driving?",
+    "options": [
+      "Every 5 to 10 seconds",
+      "Every 2 to 5 seconds",
+      "Every 10 to 15 seconds"
+    ],
+    "images": [
+      "assets/images/q45_1.png"
+    ]
+  },
+  {
+    "id": 46,
+    "question": "According to revised seat belts rules, Adults below the height of ___ meters shall use booster seats or approved adjustable seat belts to lower the risk of injury in the event of an accident.",
+    "options": [
+      "1.35",
+      "1.45",
+      "1.50"
+    ],
+    "images": [
+      "assets/images/q46_1.png"
+    ]
+  },
+  {
+    "id": 47,
+    "question": "What is tailgating?",
+    "options": [
+      "one vehicle's front hit another vehicle's rear.",
+      "one vehicle blocked the traveling path of another vehicle.",
+      "one vehicle is traveling too closely behind another vehicle."
+    ],
+    "images": [
+      "assets/images/q47_1.png"
+    ]
+  },
+  {
+    "id": 48,
+    "question": "A single white line and a word STOP painted on the road indicates that",
+    "options": [
+      "traffic must wait for pedestrians to cross the road",
+      "traffic is required to stop close to and before this line",
+      "traffic approaching this line must give way to traffic on a major road"
+    ],
+    "images": [
+      "assets/images/q48_1.png"
+    ]
+  },
+  {
+    "id": 49,
+    "question": "When driving down steep slope, you should___",
+    "options": [
+      "engage handbrake immediately",
+      "engage lower gear",
+      "turn on hazard lights"
+    ],
+    "images": [
+      "assets/images/q49_1.png"
+    ]
+  },
+  {
+    "id": 50,
+    "question": "you should dip your high beam when you are within ___ metres of other vehicles",
+    "options": [
+      "100",
+      "150",
+      "200"
+    ],
+    "images": [
+      "assets/images/q50_1.png"
+    ]
+  },
+  {
+    "id": 52,
+    "question": "When driving on the road, you should always position you vehicle",
+    "options": [
+      "to the left of the lane.",
+      "to the centre of the lane.",
+      "to the right of the lane."
+    ],
+    "images": [
+      "assets/images/q52_1.png"
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Red circular signs are",
+    "options": [
+      "Regulatory signs - meant to regulate traffic movement.",
+      "Prohibitory signs - obey these signs at all times.",
+      "Warning signs - slow down and proceed with caution"
+    ],
+    "images": [
+      "assets/images/q53_1.png"
+    ]
+  },
+  {
+    "id": 54,
+    "question": "What should you do when starting an uphill climb?",
+    "options": [
+      "Drive in a zig-zag fashion to improve tyre traction.",
+      "Change to a lower gear.",
+      "Change to a higher gear."
+    ],
+    "images": [
+      "assets/images/q54_1.png"
+    ]
+  },
+  {
+    "id": 55,
+    "question": "The sign indicates",
+    "options": [
+      "raining area ahead.",
+      "slow down, drive carefully, wet road ahead.",
+      "rain shelter for motorcyclists."
+    ],
+    "images": [
+      "assets/images/q55_1.png"
+    ]
+  },
+  {
+    "id": 56,
+    "question": "When there are double yellow zig-zag lines along the side of a road, it indicates ______",
+    "options": [
+      "You may stop for immediate picking up and letting down of passengers on that side.",
+      "You must never stop on that side.",
+      "You may park your vehicle on that side between 7:00pm and 7:00am."
+    ],
+    "images": [
+      "assets/images/q56_1.png"
+    ]
+  },
+  {
+    "id": 57,
+    "question": "When parking on downslope, the motorist should do the following except",
+    "options": [
+      "Engage the reverse gear",
+      "Position the front wheels slightly facing the kerb",
+      "Turn on the hazard lights"
+    ],
+    "images": [
+      "assets/images/q57_1.png"
+    ]
+  },
+  {
+    "id": 58,
+    "question": "This sign indicates",
+    "options": [
+      "Vehicles on the major road should slow down and give way to traffic on the minor road.",
+      "Vehicles on the minor road should slow down and give way to traffic on the major road.",
+      "all vehicles should slow down and give way to each other."
+    ],
+    "images": [
+      "assets/images/q58_1.png"
+    ]
+  },
+  {
+    "id": 59,
+    "question": "The sign indicates",
+    "options": [
+      "No parking for motorcycles.",
+      "No entry for pedal cycles.",
+      "No entry for motorcycles and pedal cycles."
+    ],
+    "images": [
+      "assets/images/q59_1.png"
+    ]
+  },
+  {
+    "id": 60,
+    "question": "What should you do while waiting at a red traffic light?",
+    "options": [
+      "Pull up handbrake.",
+      "Step on brake pedal.",
+      "Turn on Hazard Light"
+    ],
+    "images": [
+      "assets/images/q60_1.png"
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Road Hogging can",
+    "options": [
+      "prevent accident.",
+      "make other vehicles to pass dangerously on the left.",
+      "smooth the traffic."
+    ],
+    "images": [
+      "assets/images/q61_1.png"
+    ]
+  },
+  {
+    "id": 62,
+    "question": "Which of the following statement is correct?",
+    "options": [
+      "Goods vehicles carrying workers are not allowed in tunnels.",
+      "Vehicles carrying dangerous goods are not allowed in tunnels.",
+      "Buses carrying passengers are not allowed in tunnels."
+    ],
+    "images": [
+      "assets/images/q62_1.png"
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Which of the following is INCORRECT? You are allowed to overtake",
+    "options": [
+      "at any road junction",
+      "on the right even if you are turning left",
+      "on the right if you are turning right"
+    ],
+    "images": [
+      "assets/images/q63_1.png"
+    ]
+  },
+  {
+    "id": 64,
+    "question": "What should you do when approaching a HUMP?",
+    "options": [
+      "Increase your speed",
+      "Slow down",
+      "Stop immediately"
+    ],
+    "images": [
+      "assets/images/q64_1.png"
+    ]
+  },
+  {
+    "id": 65,
+    "question": "When the traffic light turns amber and you have just crossed the stop-line, you should ______",
+    "options": [
+      "stop immediately.",
+      "reverse until behind the stop-line.",
+      "proceed."
+    ],
+    "images": [
+      "assets/images/q65_1.png"
+    ]
+  },
+  {
+    "id": 66,
+    "question": "The Keep-Left Rule always applies when driving along two-way streets unless",
+    "options": [
+      "an accident occurs on the right.",
+      "you are on the right lane.",
+      "you intend to overtake."
+    ],
+    "images": [
+      "assets/images/q66_1.png"
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Which of the following is not allowed on the expressway?",
+    "options": [
+      "a vehicle that has broken down before",
+      "a vehicle which is higher than 4.5 m",
+      "a motorcycle with side-car attached"
+    ],
+    "images": [
+      "assets/images/q67_1.png"
+    ]
+  },
+  {
+    "id": 68,
+    "question": "You may overtake on the left only when",
+    "options": [
+      "you are approaching an accident area.",
+      "you want to turn left at a junction.",
+      "you are not sure if it is safe to overtake on the right."
+    ],
+    "images": [
+      "assets/images/q68_1.png"
+    ]
+  },
+  {
+    "id": 69,
+    "question": "If the speed limit of the road is 50km/h, and the maximum speed of your vehicle is 120km/h. which of the following speed you should drive at:",
+    "options": [
+      "45km/h",
+      "60km/h",
+      "120km/h"
+    ],
+    "images": [
+      "assets/images/q69_1.png"
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Which of the following statement is correct about reversing?",
+    "options": [
+      "It is illegal to reverse from a side road into a main road.",
+      "It is illegal to reverse from a main road to a side road.",
+      "It is illegal to reverse from one road to another, no matter main or side road."
+    ],
+    "images": [
+      "assets/images/q70_1.png"
+    ]
+  },
+  {
+    "id": 71,
+    "question": "Which of the following statements is FALSE?",
+    "options": [
+      "It is unsafe to drive with the interior lights off as they reduce your external visibility.",
+      "It is advisable to leave your side or parking lights on when parking in unlit or poorly lit roads at night.",
+      "Switch on your headlights even in the daytime whenever visibility is poor or during rainy weather."
+    ],
+    "images": [
+      "assets/images/q71_1.png"
+    ]
+  },
+  {
+    "id": 72,
+    "question": "Vehicles travelling at slow speed should use the",
+    "options": [
+      "left-hand lane.",
+      "middle lane.",
+      "outer most right-hand lane."
+    ],
+    "images": [
+      "assets/images/q72_1.png"
+    ]
+  },
+  {
+    "id": 73,
+    "question": "If a driver rotates his hand in a circular motion out of the window, what signal is he giving?",
+    "options": [
+      "He intends to move out to the right.",
+      "He intends to move in to the left or turn left.",
+      "He intends to stop."
+    ],
+    "images": [
+      "assets/images/q73_1.png"
+    ]
+  },
+  {
+    "id": 74,
+    "question": "If a child is above 8 years old, but his height is below 1.35 meters, when traveling on the road, what must he wear?",
+    "options": [
+      "seat belt",
+      "child restraint",
+      "booster seat or approved adjustable seat belt"
+    ],
+    "images": [
+      "assets/images/q74_1.png"
+    ]
+  },
+  {
+    "id": 75,
+    "question": "The driver is signaling that ______",
+    "options": [
+      "He intends to move out to the right or turn right.",
+      "He intends to move in to the left or turn left.",
+      "He intends to slow down."
+    ],
+    "images": [
+      "assets/images/q75_1.png"
+    ]
+  },
+  {
+    "id": 76,
+    "question": "What should you do when being overtaken by someone from behind?",
+    "options": [
+      "Speed up.",
+      "Always slow down.",
+      "Remain at current speed if it does not cause any confusion or obstruction."
+    ],
+    "images": [
+      "assets/images/q76_1.png"
+    ]
+  },
+  {
+    "id": 77,
+    "question": "This sign indicates",
+    "options": [
+      "a pedestrian zebra crossing ahead.",
+      "a barrier ahead.",
+      "a sharp deviation ahead, you should drive slowly."
+    ],
+    "images": [
+      "assets/images/q77_1.png"
+    ]
+  },
+  {
+    "id": 78,
+    "question": "What does COE stand for?",
+    "options": [
+      "Certificate of Empowerment.",
+      "Car Ownership Entitlement.",
+      "Certificate of Entitlement."
+    ],
+    "images": [
+      "assets/images/q78_1.png"
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Which of the following is NOT applicable to parallel continuous white lines in the center of a two-way road?",
+    "options": [
+      "No parking on either side of the road",
+      "Vehicles should keep to the right of these lines",
+      "Vehicles are not allowed to cross these lines"
+    ],
+    "images": [
+      "assets/images/q79_1.png"
+    ]
+  },
+  {
+    "id": 80,
+    "question": "When your friend drinks, you would advise him/her to,",
+    "options": [
+      "Drive if feeling alright",
+      "Take Public Transport",
+      "Drive slowly"
+    ],
+    "images": [
+      "assets/images/q80_1.png"
+    ]
+  },
+  {
+    "id": 81,
+    "question": "The sign indicates",
+    "options": [
+      "Hospital ahead.",
+      "Cross junction ahead.",
+      "Flyover ahead."
+    ],
+    "images": [
+      "assets/images/q81_1.png"
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Which of the following statement is INCORRECT?",
+    "options": [
+      "The Two-second rule can be applied to all types of vehicles at any speed.",
+      "The Two-second rule can be applied to all road conditions, include wet road.",
+      "You should leave more than a two-second distance in bad weather."
+    ],
+    "images": [
+      "assets/images/q82_1.png"
+    ]
+  },
+  {
+    "id": 83,
+    "question": "This sign indicates",
+    "options": [
+      "vehicles may turn right immediately.",
+      "one way road ahead.",
+      "vehicles must turn right ahead."
+    ],
+    "images": [
+      "assets/images/q83_1.png"
+    ]
+  },
+  {
+    "id": 84,
+    "question": "This sign means",
+    "options": [
+      "Should slow down, keep left and beware of oncoming traffic",
+      "Make a U-turn as the road ending ahead",
+      "Two lanes are merging - alternate vehicle has the right of the way"
+    ],
+    "images": [
+      "assets/images/q84_1.png"
+    ]
+  },
+  {
+    "id": 85,
+    "question": "When you hear the police car's siren from behind, you should",
+    "options": [
+      "speed up not to cause any obstruction",
+      "slow down, keep left or move aside",
+      "maintain the speed and keep left"
+    ],
+    "images": [
+      "assets/images/q85_1.png"
+    ]
+  },
+  {
+    "id": 86,
+    "question": "This sign indicates that",
+    "options": [
+      "vehicles can only turn right.",
+      "one way road ahead.",
+      "vehicles may turn left."
+    ],
+    "images": [
+      "assets/images/q86_1.png"
+    ]
+  },
+  {
+    "id": 87,
+    "question": "The car you wish to overtake suddenly signals its intention for moving out to the right, you should ______",
+    "options": [
+      "overtake on the left.",
+      "speed up and overtake quickly before its move.",
+      "wait for it to complete its move."
+    ],
+    "images": [
+      "assets/images/q87_1.png"
+    ]
+  },
+  {
+    "id": 88,
+    "question": "Commercial Vehicles are required to display the LONG VEHICLE sign at the rear of the vehicles if they are longer than",
+    "options": [
+      "8 metres",
+      "10 metres",
+      "11 metres"
+    ],
+    "images": [
+      "assets/images/q88_1.png"
+    ]
+  },
+  {
+    "id": 89,
+    "question": "Unless otherwise stated, The speed limit of all roads in Singapore is:",
+    "options": [
+      "50km/h",
+      "60km/h",
+      "70km/h"
+    ],
+    "images": [
+      "assets/images/q89_1.png"
+    ]
+  },
+  {
+    "id": 90,
+    "question": "Besides signaling to indicate your intentions, you should also",
+    "options": [
+      "allow enough time for other motorists to react",
+      "flash your high beam to reinforce your intention",
+      "use accompanying hand signals"
+    ],
+    "images": [
+      "assets/images/q90_1.png"
+    ]
+  },
+  {
+    "id": 91,
+    "question": "What should you do when your car approaches zebra crossing?",
+    "options": [
+      "speed up",
+      "slow down",
+      "maintain your speed"
+    ],
+    "images": [
+      "assets/images/q91_1.png"
+    ]
+  },
+  {
+    "id": 92,
+    "question": "If there is a bunch of kids playing at the side of the road, you should:",
+    "options": [
+      "Maintain your current speed,",
+      "Slow down, stop if necessary.",
+      "Speed up and pass them quickly."
+    ],
+    "images": [
+      "assets/images/q92_1.png"
+    ]
+  },
+  {
+    "id": 93,
+    "question": "When may you cross the center line of a two-way road?",
+    "options": [
+      "When negotiating a sharp bend.",
+      "When you cannot see clearly but you want to overtake the car in front",
+      "When your path is obstructed by road works or parked vehicles."
+    ],
+    "images": [
+      "assets/images/q93_1.png"
+    ]
+  },
+  {
+    "id": 94,
+    "question": "Which of the following is INCORRECT?",
+    "options": [
+      "Pedestrians do not have the right of way when vehicles is in motion",
+      "Pedestrians have the right of way even if they cross the zig zag line at the zebra crossing",
+      "always slow down when approaching the zebra crossing"
+    ],
+    "images": [
+      "assets/images/q94_1.png"
+    ]
+  },
+  {
+    "id": 95,
+    "question": "When should you obey the \"Reduce Speed Now\" sign?",
+    "options": [
+      "always.",
+      "if your speed is above 50km/h.",
+      "only if you wish to"
+    ],
+    "images": [
+      "assets/images/q95_1.png"
+    ]
+  },
+  {
+    "id": 96,
+    "question": "The sign indicates",
+    "options": [
+      "right turn only.",
+      "U-turn ahead.",
+      "Blind people may be crossing the road."
+    ],
+    "images": [
+      "assets/images/q96_1.png"
+    ]
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is correct?",
+    "options": [
+      "adjust your mirror before adjusting the position of your seat",
+      "adjust your mirror after adjusting the position of your seat",
+      "adjust your mirror and seat position after moving off"
+    ],
+    "images": [
+      "assets/images/q97_1.png"
+    ]
+  },
+  {
+    "id": 98,
+    "question": "In a traffic hold-up, you should",
+    "options": [
+      "wait patiently for your turn to move off",
+      "try to switch to the outermost lane",
+      "try to squeeze between cars"
+    ],
+    "images": [
+      "assets/images/q98_1.png"
+    ]
+  },
+  {
+    "id": 99,
+    "question": "Normal bus lanes are denoted by a",
+    "options": [
+      "continuous yellow line",
+      "dotted yellow line",
+      "continuous red and yellow line"
+    ],
+    "images": [
+      "assets/images/q99_1.png"
+    ]
+  },
+  {
+    "id": 100,
+    "question": "TSD stands for?",
+    "options": [
+      "Traffic Sign Display",
+      "Traveling Sign Display",
+      "Time Sign Display"
+    ],
+    "images": [
+      "assets/images/q100_1.png"
+    ]
+  },
+  {
+    "id": 101,
+    "question": "Which is an incorrect statement?",
+    "options": [
+      "Interior car lights should be used at night when car is on the road.",
+      "Dip you headlight when oncoming car is approaching",
+      "Slow down when oncoming car is using high beam."
+    ],
+    "images": [
+      "assets/images/q101_1.png"
+    ]
+  },
+  {
+    "id": 102,
+    "question": "If your path of travel is obstructed by road works or parked vehicles on the left, you should ______",
+    "options": [
+      "check to ensure safety before moving to the right.",
+      "call the traffic police to report the road situation.",
+      "move to the right and check for any approaching vehicles."
+    ],
+    "images": [
+      "assets/images/q102_1.png"
+    ]
+  },
+  {
+    "id": 103,
+    "question": "While waiting for the lights to change at a traffic light controlled junction, you should not",
+    "options": [
+      "check you rear view mirror and wing mirrors.",
+      "make a quick phone call.",
+      "engage your handbrake."
+    ],
+    "images": [
+      "assets/images/q103_1.png"
+    ]
+  },
+  {
+    "id": 104,
+    "question": "A repeat drink driving offender may face a jail sentence up to ___.",
+    "options": [
+      "12 months.",
+      "24 months.",
+      "36 months."
+    ],
+    "images": [
+      "assets/images/q104_1.png"
+    ]
+  },
+  {
+    "id": 105,
+    "question": "Which of the following statement is INCORRECT?",
+    "options": [
+      "zig-zag lines give advance warning of the presence of a pedestrian crossing.",
+      "vehicle should not overtake, wait or park in the vicinity.",
+      "Pedestrians are allowed to cross at the zig-zag areas."
+    ],
+    "images": [
+      "assets/images/q105_1.png"
+    ]
+  },
+  {
+    "id": 106,
+    "question": "A broken white line along the road centre indicates",
+    "options": [
+      "vehicles should keep to the right of the line.",
+      "lane mark of a one-way road.",
+      "centre line of a two-way road."
+    ],
+    "images": [
+      "assets/images/q106_1.png"
+    ]
+  },
+  {
+    "id": 107,
+    "question": "What does this sign indicate?",
+    "options": [
+      "This is a warning for road hump ahead, motorists should slow down, keep left and not to overtake.",
+      "Motorists should speed up to get over the hump ahead",
+      "Motorists should take an alternative route to avoid the hump ahead"
+    ],
+    "images": [
+      "assets/images/q107_1.png"
+    ]
+  },
+  {
+    "id": 108,
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "Tailgating is not allowed on expressways especially when driving at high speeds.",
+      "Tailgating makes the driver in front nervous and can cause him/her to be involved in an accident.",
+      "Tailgating is an offence and can be fined up to $5,000 and 3 demerit points."
+    ],
+    "images": [
+      "assets/images/q108_1.png"
+    ]
+  },
+  {
+    "id": 109,
+    "question": "Traffic signs and signals",
+    "options": [
+      "should always be obeyed regardless of the traffic flow.",
+      "should only be obeyed when the traffic flow is heavy.",
+      "may be disregarded if the road is fairly deserted."
+    ],
+    "images": [
+      "assets/images/q109_1.png"
+    ]
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is a correct practice?",
+    "options": [
+      "Use plastic bag to top up fuel",
+      "Switch off the engine while filling fuel",
+      "Use handphone in the vicinity of the petrol station"
+    ],
+    "images": [
+      "assets/images/q110_1.png"
+    ]
+  },
+  {
+    "id": 111,
+    "question": "The sign indicates",
+    "options": [
+      "dual - carriageway ends ahead.",
+      "lanes are merging ahead.",
+      "the roads narrows ahead."
+    ],
+    "images": [
+      "assets/images/q111_1.png"
+    ]
+  },
+  {
+    "id": 112,
+    "question": "The sign indicates that",
+    "options": [
+      "one way road ahead.",
+      "vehicles can only turn left.",
+      "vehicles may turn left."
+    ],
+    "images": [
+      "assets/images/q112_1.png"
+    ]
+  },
+  {
+    "id": 113,
+    "question": "Upon seeing this sign, you should",
+    "options": [
+      "slow down, keep left, do not overtake.",
+      "make a U-turn",
+      "park your vehicle."
+    ],
+    "images": [
+      "assets/images/q113_1.png"
+    ]
+  },
+  {
+    "id": 114,
+    "question": "The sign indicates",
+    "options": [
+      "series of bends ahead.",
+      "uneven road ahead.",
+      "slippery road ahead."
+    ],
+    "images": [
+      "assets/images/q114_1.png"
+    ]
+  },
+  {
+    "id": 115,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles at left lane should speed up, at right lanes should slow down.",
+      "two-way traffic ahead.",
+      "two-way traffic across a one-way carriageway."
+    ],
+    "images": [
+      "assets/images/q115_1.png"
+    ]
+  },
+  {
+    "id": 116,
+    "question": "What is the first thing you should do to safely overtake another vehicle?",
+    "options": [
+      "Check Traffics Ahead",
+      "Check Traffics Behind",
+      "Check Blind Spot"
+    ],
+    "images": [
+      "assets/images/q116_1.png"
+    ]
+  },
+  {
+    "id": 117,
+    "question": "What are the normal bus lane hours on weekday evenings?",
+    "options": [
+      "4.30pm - 7.00pm",
+      "5.00pm - 8.00pm",
+      "4.00pm - 8.00pm"
+    ],
+    "images": [
+      "assets/images/q117_1.png"
+    ]
+  },
+  {
+    "id": 118,
+    "question": "The driver is signaling that ______",
+    "options": [
+      "He/She intends to move out to the right or turn right.",
+      "He/She intends to move in to the left or turn left.",
+      "He/She intends to slow down."
+    ],
+    "images": [
+      "assets/images/q118_1.png"
+    ]
+  },
+  {
+    "id": 119,
+    "question": "At a roundabout, traffic coming from which direction takes priority over you?",
+    "options": [
+      "from your right.",
+      "from your left.",
+      "from the opposite direction."
+    ],
+    "images": [
+      "assets/images/q119_1.png"
+    ]
+  },
+  {
+    "id": 120,
+    "question": "Emergency telephones are provided in the tunnel next to the slow lane at approximately ______ intervals.",
+    "options": [
+      "50m",
+      "100m",
+      "150m"
+    ],
+    "images": [
+      "assets/images/q120_1.png"
+    ]
+  },
+  {
+    "id": 121,
+    "question": "What is Travel Time Display for?",
+    "options": [
+      "Provide estimated traveling time on the expressway to selected exits",
+      "Provide estimated traveling distance on the expressway to selected exits",
+      "Provide estimated time you have traveled on the expressway"
+    ],
+    "images": [
+      "assets/images/q121_1.png"
+    ]
+  },
+  {
+    "id": 122,
+    "question": "When there is a traffic police directing the flow of traffic, his instructions override_____",
+    "options": [
+      "the road marks and road signs",
+      "the traffic light signals",
+      "Both A & B"
+    ],
+    "images": [
+      "assets/images/q122_1.png"
+    ]
+  },
+  {
+    "id": 123,
+    "question": "At a traffic light controlled junction, the light has not turned green, however, there are no approaching vehicles, you should ___ .",
+    "options": [
+      "move off since there are no approaching vehicles.",
+      "move off cautiously and prepare to stop if a vehicle suddenly appears.",
+      "wait for the light to turn green before moving off."
+    ],
+    "images": [
+      "assets/images/q123_1.png"
+    ]
+  },
+  {
+    "id": 124,
+    "question": "When you are allowed to drive on the right-hand lane of a three-lane carriageway?",
+    "options": [
+      "When the left-hand lane is occupied by slower moving vehicles.",
+      "when you are travelling close to the speed limit of the road.",
+      "when you are overtaking other vehicles."
+    ],
+    "images": [
+      "assets/images/q124_1.png"
+    ]
+  },
+  {
+    "id": 125,
+    "question": "The light turns green, after 15 seconds, the vehicle in front of you still not move, you should ______",
+    "options": [
+      "tap your horn to remind it to move off.",
+      "keep on waiting.",
+      "overtake it."
+    ],
+    "images": [
+      "assets/images/q125_1.png"
+    ]
+  },
+  {
+    "id": 126,
+    "question": "What should you do while waiting for people to cross at a pedestrian crossing if you are in a rush?",
+    "options": [
+      "Horn at the pedestrians.",
+      "Move forward slightly to express your intention to get moving.",
+      "Wait patiently."
+    ],
+    "images": [
+      "assets/images/q126_1.png"
+    ]
+  },
+  {
+    "id": 127,
+    "question": "This sign indicates",
+    "options": [
+      "one way traffic.",
+      "you should slow down and give way as traffic converges into single lane.",
+      "you should beware that only one lane is used for traffic."
+    ],
+    "images": [
+      "assets/images/q127_1.png"
+    ]
+  },
+  {
+    "id": 128,
+    "question": "You have fastened the seat belt and adjusted the rear view and wing (side) mirrors, what are the next steps you should take before moving off?",
+    "options": [
+      "Signal the intention",
+      "Check around for pedestrians or other traffic",
+      "Do both of the above (A and B)"
+    ],
+    "images": [
+      "assets/images/q128_1.png"
+    ]
+  },
+  {
+    "id": 129,
+    "question": "Tyres that have treads less than ______ in depth should be replaced.",
+    "options": [
+      "1.0 mm",
+      "1.6 mm",
+      "2.0 mm"
+    ],
+    "images": [
+      "assets/images/q129_1.png"
+    ]
+  },
+  {
+    "id": 130,
+    "question": "Traffic Signs are for what kind of purposes?",
+    "options": [
+      "To regulate traffic movements.",
+      "To fasten traffic movements.",
+      "To slower traffic movements."
+    ],
+    "images": [
+      "assets/images/q130_1.png"
+    ]
+  },
+  {
+    "id": 131,
+    "question": "Upon seeing this sign, you should",
+    "options": [
+      "slow down and get ready to detour ahead.",
+      "keep a distance of about 40 metres to the detour ahead.",
+      "stop at a distance about 40 metres from the front detour."
+    ],
+    "images": [
+      "assets/images/q131_1.png"
+    ]
+  },
+  {
+    "id": 132,
+    "question": "Upon seeing this sign, you should",
+    "options": [
+      "stop in front of the obstruction 50 metres",
+      "slow down and beware of road works ahead.",
+      "slow down and keep 5o metres from the obstruction when passing."
+    ],
+    "images": [
+      "assets/images/q132_1.png"
+    ]
+  },
+  {
+    "id": 133,
+    "question": "To keep your focus on the road ahead While driving, you should avoid:",
+    "options": [
+      "checking your rear view and side mirrors.",
+      "talking to passengers in the vehicle.",
+      "looking at a map or directory."
+    ],
+    "images": [
+      "assets/images/q133_1.png"
+    ]
+  },
+  {
+    "id": 134,
+    "question": "You are driving on an expressway and your companion gets vomiting sensation. You do not have any plastic bags in the car. What will you do?",
+    "options": [
+      "Stop the car immediately and let the companion go out.",
+      "Judging the traffic, move towards the shoulder of the expressway and stop",
+      "Turn on the hazard lights, carry on and try to reach a nearby facility"
+    ],
+    "images": [
+      "assets/images/q134_1.png"
+    ]
+  },
+  {
+    "id": 135,
+    "question": "You may stop for immediate boarding and alighting of passengers on a road, which has ______",
+    "options": [
+      "a single white zig-zag line along the side.",
+      "double yellow zig-zag lines along the side.",
+      "a single yellow zig-zag line along the side."
+    ],
+    "images": [
+      "assets/images/q135_1.png"
+    ]
+  },
+  {
+    "id": 136,
+    "question": "The sign indicates",
+    "options": [
+      "pedestrian crossing ahead.",
+      "accident area ahead.",
+      "road works ahead."
+    ],
+    "images": [
+      "assets/images/q136_1.png"
+    ]
+  },
+  {
+    "id": 137,
+    "question": "TID stands for",
+    "options": [
+      "Traffic Information for Drivers",
+      "Traffic Information Display",
+      "Traffic Information Directions"
+    ],
+    "images": [
+      "assets/images/q137_1.png"
+    ]
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is the result of leaving Singapore with a fuel tank that is not at least 3/4 full?",
+    "options": [
+      "charged in court",
+      "licence revoked",
+      "charged in court, fine or jail or both"
+    ],
+    "images": [
+      "assets/images/q138_1.png"
+    ]
+  },
+  {
+    "id": 139,
+    "question": "How does alcohol affect a driver?",
+    "options": [
+      "Reaction time will increase",
+      "Reaction time will decrease",
+      "Reaction time will remain the same"
+    ],
+    "images": [
+      "assets/images/q139_1.png"
+    ]
+  },
+  {
+    "id": 140,
+    "question": "Can motorists drive on bus lanes on Sunday?",
+    "options": [
+      "Yes, motorists can drive on bus lanes on Sundays",
+      "No, motorists can not drive on bus lanes on Sundays",
+      "Depends. for normal bus lane, OK; for full day bus lane, can not."
+    ],
+    "images": [
+      "assets/images/q140_1.png"
+    ]
+  },
+  {
+    "id": 141,
+    "question": "How many seconds must you wait after signaling but before moving off.",
+    "options": [
+      "At least 3 seconds",
+      "At least 5 seconds",
+      "At least 7 seconds"
+    ],
+    "images": [
+      "assets/images/q141_1.png"
+    ]
+  },
+  {
+    "id": 142,
+    "question": "Who needs to use a child restraint?",
+    "options": [
+      "a 7-year-old child who is below 1.35m",
+      "an 8-year-old child who is above 1.5m",
+      "a 12-year-old child who is above 1.35m"
+    ],
+    "images": [
+      "assets/images/q142_1.png"
+    ]
+  },
+  {
+    "id": 143,
+    "question": "The penalty for using mobile phone whilst driving is a fine not more than 1,000 dollars or maximum imprisonment of 6 months or both.",
+    "options": [
+      "true, and mostlikely licence will also be revoked.",
+      "false",
+      "true, and mostlikely licence will not be revoked"
+    ],
+    "images": [
+      "assets/images/q143_1.png"
+    ]
+  },
+  {
+    "id": 144,
+    "question": "This sign indicates",
+    "options": [
+      "One-way traffic, vehicles must go straight only.",
+      "One-way traffic, vehicles may turn right or left.",
+      "Ahead only, vehicles must only go straight ahead."
+    ],
+    "images": [
+      "assets/images/q144_1.png"
+    ]
+  },
+  {
+    "id": 145,
+    "question": "The sign indicates",
+    "options": [
+      "Any vehicle parked in this zone may be towed away.",
+      "All vehicles have been towed away in this zone.",
+      "Any vehicle entered in this zone will be towed away."
+    ],
+    "images": [
+      "assets/images/q145_1.png"
+    ]
+  },
+  {
+    "id": 146,
+    "question": "At an uncontrolled junction without \"Give Way\" and \"Stop\" sign, if you are turning left, you must:",
+    "options": [
+      "give way to traffic turning right from the opppsite direction.",
+      "give way to traffic going straight from the right.",
+      "give way to traffic making U-turn from the left."
+    ],
+    "images": [
+      "assets/images/q146_1.png"
+    ]
+  },
+  {
+    "id": 147,
+    "question": "What is the first thing you should do when your vehicle breaks down and can not move?",
+    "options": [
+      "Check the engine parts.",
+      "Call for help.",
+      "switch on hazard lights"
+    ],
+    "images": [
+      "assets/images/q147_1.png"
+    ]
+  },
+  {
+    "id": 148,
+    "question": "Single continuous white line on the centre of a road indicates ________.",
+    "options": [
+      "No overtaking",
+      "No parking at all times",
+      "Parking is permitted"
+    ],
+    "images": [
+      "assets/images/q148_1.png"
+    ]
+  },
+  {
+    "id": 149,
+    "question": "when going straight across a junction,",
+    "options": [
+      "give way to traffic going straight from the right",
+      "give way to traffic turning right.",
+      "give way to traffic turning left."
+    ],
+    "images": [
+      "assets/images/q149_1.png"
+    ]
+  },
+  {
+    "id": 150,
+    "question": "Upon seeing this sign,",
+    "options": [
+      "you should check to make sure you are driving within the speed limit.",
+      "you should stop at the road side and wait for traffic police to check your speed.",
+      "you should slow down within the area."
+    ],
+    "images": [
+      "assets/images/q150_1.png"
+    ]
+  },
+  {
+    "id": 151,
+    "question": "On unlit roads, you should _____.",
+    "options": [
+      "use the high beam lights",
+      "use the low beam lights",
+      "flashing your headlights"
+    ],
+    "images": [
+      "assets/images/q151_1.png"
+    ]
+  },
+  {
+    "id": 152,
+    "question": "Parallel continuous white lines along the centre of a road indicates",
+    "options": [
+      "No overtaking, also no parking on either side of the road.",
+      "You may park, but not crossing the parallel lines.",
+      "No parking, but you may cross the parallel lines when overtaking."
+    ],
+    "images": [
+      "assets/images/q152_1.png"
+    ]
+  },
+  {
+    "id": 153,
+    "question": "If the oil pressure warning light appears while driving, you should:",
+    "options": [
+      "drive quickly to the nearest petrol kiosk.",
+      "slow down and stop your vehicle at a safe place.",
+      "stop driving immediately."
+    ],
+    "images": [
+      "assets/images/q153_1.png"
+    ]
+  },
+  {
+    "id": 154,
+    "question": "Upon seeing this sign, you should",
+    "options": [
+      "turn either right or left.",
+      "beware of traffic from the right and left.",
+      "give way to traffic from the right and left."
+    ],
+    "images": [
+      "assets/images/q154_1.png"
+    ]
+  },
+  {
+    "id": 155,
+    "question": "Facility Signs are signs with",
+    "options": [
+      "white letters on green backgrounds with white borders",
+      "black letters on white backgrounds with black borders",
+      "yellow letters on green backgrounds with yellow borders"
+    ],
+    "images": [
+      "assets/images/q155_1.png"
+    ]
+  },
+  {
+    "id": 156,
+    "question": "When you drive on a slippery road, you should",
+    "options": [
+      "Slow down",
+      "Keep right",
+      "Increase your speed"
+    ],
+    "images": [
+      "assets/images/q156_1.png"
+    ]
+  },
+  {
+    "id": 157,
+    "question": "You may overtake, When ______",
+    "options": [
+      "the road narrows.",
+      "in doubt.",
+      "on a road with broken white line in the centre."
+    ],
+    "images": [
+      "assets/images/q157_1.png"
+    ]
+  },
+  {
+    "id": 158,
+    "question": "What is the maximum demerit points you can get so that you will still pass the driving test?",
+    "options": [
+      "18",
+      "19",
+      "20"
+    ],
+    "images": [
+      "assets/images/q158_1.png"
+    ]
+  },
+  {
+    "id": 159,
+    "question": "When driving on the road, you should always position your vehicle",
+    "options": [
+      "to the left of the lane",
+      "to the center of the lane",
+      "to the right of the lane"
+    ],
+    "images": [
+      "assets/images/q159_1.png"
+    ]
+  },
+  {
+    "id": 160,
+    "question": "Upon seeing the sign, you should",
+    "options": [
+      "slow down and stop before the white line",
+      "slow down and prepare to stop for pedestrians at designated crossing.",
+      "be cautious and no need to slow down if no pedestrians near by."
+    ],
+    "images": [
+      "assets/images/q160_1.png"
+    ]
+  },
+  {
+    "id": 161,
+    "question": "When turning right into a two-way street, you should :",
+    "options": [
+      "turn into the most left lane.",
+      "turn into the lane just right of the center line.",
+      "turn into the lane just left of the center line."
+    ],
+    "images": [
+      "assets/images/q161_1.png"
+    ]
+  },
+  {
+    "id": 162,
+    "question": "You should switch on your headlights while driving between 7.00pm to 7.00am",
+    "options": [
+      "except whenever visibility is good or when roads are brightly lit.",
+      "except when fuel is low and there are no nearby petrol stations available.",
+      "as well as in the daytime whenever visibility is poor or during rainy weather."
+    ],
+    "images": [
+      "assets/images/q162_1.png"
+    ]
+  },
+  {
+    "id": 163,
+    "question": "Do not let your vehicle wait or park within ___ meters of a bus stop (from the edge of a yellow box or the tip of a bus bay).",
+    "options": [
+      "3",
+      "6",
+      "9"
+    ],
+    "images": [
+      "assets/images/q163_1.png"
+    ]
+  },
+  {
+    "id": 164,
+    "question": "Where are emergency telephones located in the tunnel?",
+    "options": [
+      "alongside the fast lane every 10 metres",
+      "at the exit and entrance",
+      "next to the slow lane at about 100m intervals."
+    ],
+    "images": [
+      "assets/images/q164_1.png"
+    ]
+  },
+  {
+    "id": 165,
+    "question": "What is the NORMAL bus lane restricted hours?",
+    "options": [
+      "Weekdays 7:30am - 9:30am, 5pm - 8pm except Saturdays, Sundays and public holidays",
+      "Weekdays 7am - 5pm, except on Saturdays, Sundays and public holidays.",
+      "Monday to Saturday 7am - 8pm, not operational on Sundays and public holidays."
+    ],
+    "images": [
+      "assets/images/q165_1.png"
+    ]
+  },
+  {
+    "id": 166,
+    "question": "Which of the following statement is incorrect?",
+    "options": [
+      "Do not use handphone in the vicinity of a petrol station.",
+      "Do not smoke within the premises of a petrol station.",
+      "Do not switch off your engine while filling fuel."
+    ],
+    "images": [
+      "assets/images/q166_1.png"
+    ]
+  },
+  {
+    "id": 167,
+    "question": "The Provisional Driving Licence is valid for 6 months, can it be renewed if it is expired?",
+    "options": [
+      "No, It cannot be renewed.",
+      "Yes. It can be renewed for another 6 months at a time.",
+      "Yes. It can be renewed for another 3 months."
+    ],
+    "images": [
+      "assets/images/q167_1.png"
+    ]
+  },
+  {
+    "id": 168,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles not allowed to turn right.",
+      "vehicles only allowed to turn left.",
+      "vehicles must keep left and go straight."
+    ],
+    "images": [
+      "assets/images/q168_1.png"
+    ]
+  },
+  {
+    "id": 169,
+    "question": "A learner driver is allowed on the road when:",
+    "options": [
+      "He/she has passed the Basic Theory Test(BTT)",
+      "He/she has applied for the PDL",
+      "He/she has a valid PDL and accompanied by a qualified driving instructor"
+    ],
+    "images": [
+      "assets/images/q169_1.png"
+    ]
+  },
+  {
+    "id": 170,
+    "question": "On one-way street (not dual-carriageways) where vehicles may pass on either side, you ______",
+    "options": [
+      "must always overtake on the right.",
+      "can not overtake.",
+      "may overtake on the left."
+    ],
+    "images": [
+      "assets/images/q170_1.png"
+    ]
+  },
+  {
+    "id": 171,
+    "question": "On a two-way carriageway with two lanes on each direction, you should :",
+    "options": [
+      "keep to the left lane unless you are overtaking other vehicles",
+      "keep to the outer lane unless you are overtaking other vehicles",
+      "cross on the centre-line of the two lanes"
+    ],
+    "images": [
+      "assets/images/q171_1.png"
+    ]
+  },
+  {
+    "id": 172,
+    "question": "When two vehicles are passing in opposite directions at night, the headlights of the vehicles should be :",
+    "options": [
+      "switched to high beam.",
+      "switched to low beam.",
+      "switched off."
+    ],
+    "images": [
+      "assets/images/q172_1.png"
+    ]
+  },
+  {
+    "id": 173,
+    "question": "Which one of the following is not allowed on expressway?",
+    "options": [
+      "vans",
+      "motorcycles",
+      "vehicles with L plate"
+    ],
+    "images": [
+      "assets/images/q173_1.png"
+    ]
+  },
+  {
+    "id": 174,
+    "question": "When there are parallel continuous white lines along the centre of a two-way road,",
+    "options": [
+      "Vehicles may cross the lines when overtaking.",
+      "Vehicles may park on either side of the road",
+      "Vehicles must not cross the lines at all times"
+    ],
+    "images": [
+      "assets/images/q174_1.png"
+    ]
+  },
+  {
+    "id": 175,
+    "question": "Why must you position the front wheel of the car facing the kerb when parking on a road facing downhill?",
+    "options": [
+      "Prevent the car from rolling forward",
+      "So that the handbrake could be engaged",
+      "So that it is easier to move out from parking later"
+    ],
+    "images": [
+      "assets/images/q175_1.png"
+    ]
+  },
+  {
+    "id": 176,
+    "question": "The purpose of road hump is to",
+    "options": [
+      "Slow down motorists",
+      "Warn motorists of a zebra crossing ahead",
+      "Stop motorists"
+    ],
+    "images": [
+      "assets/images/q176_1.png"
+    ]
+  },
+  {
+    "id": 177,
+    "question": "road shoulders can be used",
+    "options": [
+      "when you need to overtake a slower vehicle",
+      "when there is a traffic congestion",
+      "in the event of vehicle breakdown"
+    ],
+    "images": [
+      "assets/images/q177_1.png"
+    ]
+  },
+  {
+    "id": 178,
+    "question": "Headlights must be turned on when you are driving during",
+    "options": [
+      "7:00 am - 7:00pm.",
+      "7:00 pm - 7:00 am.",
+      "6:30 pm - 6:30 am."
+    ],
+    "images": [
+      "assets/images/q178_1.png"
+    ]
+  },
+  {
+    "id": 179,
+    "question": "While approaching a junction from a distance, you notice the traffic lights show flashing amber, what should you do?",
+    "options": [
+      "Slow down and stop",
+      "Proceed with caution",
+      "Speed up"
+    ],
+    "images": [
+      "assets/images/q179_1.png"
+    ]
+  },
+  {
+    "id": 180,
+    "question": "When you want to turn right into a one way street where should you position your car?",
+    "options": [
+      "To the right of the lane",
+      "To the center of the lane",
+      "To the left of the lane"
+    ],
+    "images": [
+      "assets/images/q180_1.png"
+    ]
+  },
+  {
+    "id": 181,
+    "question": "Which light comes after green light?",
+    "options": [
+      "The Flashing Amber Light",
+      "Amber light",
+      "Red light"
+    ],
+    "images": [
+      "assets/images/q181_1.png"
+    ]
+  },
+  {
+    "id": 182,
+    "question": "You may park your vehicle any time on Sundays and public holidays on a road, which has ______",
+    "options": [
+      "a continuous yellow line along the side.",
+      "parallel continuous yellow lines along the side.",
+      "a single yellow zig-zag line along the side."
+    ],
+    "images": [
+      "assets/images/q182_1.png"
+    ]
+  },
+  {
+    "id": 183,
+    "question": "When there is a continuous yellow line along the side of a road, it indicates ______",
+    "options": [
+      "No parking is allowed at all time on that side.",
+      "No parking is allowed between 7:00am - 7:00pm on either side.",
+      "No parking is allowed on that side between 7:00am - 7:00pm except Sundays and public holidays."
+    ],
+    "images": [
+      "assets/images/q183_1.png"
+    ]
+  },
+  {
+    "id": 184,
+    "question": "When you want to turn, and see a red light with a green arrow, you should ______",
+    "options": [
+      "proceed immediately in the direction indicated.",
+      "proceed in the direction indicated after ensuring oncoming traffic is clear.",
+      "proceed with caution, signal is about to be cancelled."
+    ],
+    "images": [
+      "assets/images/q184_1.png"
+    ]
+  },
+  {
+    "id": 185,
+    "question": "The sign indicates",
+    "options": [
+      "T-junction ahead.",
+      "road ends in a short distance.",
+      "road leads to an accident area ahead."
+    ],
+    "images": [
+      "assets/images/q185_1.png"
+    ]
+  },
+  {
+    "id": 186,
+    "question": "Bald tyres will skid",
+    "options": [
+      "on wet roads only.",
+      "on dry roads only.",
+      "on both dry and wet roads when braking hard."
+    ],
+    "images": [
+      "assets/images/q186_1.png"
+    ]
+  },
+  {
+    "id": 187,
+    "question": "Which of the following statement is incorrect?",
+    "options": [
+      "On a two-way street, keep left.",
+      "On a dual-carriageway, do not hog the middle of the road.",
+      "On an one-way street, always position your vehicle to the left."
+    ],
+    "images": [
+      "assets/images/q187_1.png"
+    ]
+  },
+  {
+    "id": 188,
+    "question": "When driving in a heavy rain, which light(s) should be switched on?",
+    "options": [
+      "Hazard Light",
+      "Headlight and hazard light",
+      "Headlight and Taillight"
+    ],
+    "images": [
+      "assets/images/q188_1.png"
+    ]
+  },
+  {
+    "id": 189,
+    "question": "What is DIPS?",
+    "options": [
+      "Driver Improvement Points System Rules",
+      "Driver Improvement Passengers Safety Rules",
+      "Driver Incident Points System Rules"
+    ],
+    "images": [
+      "assets/images/q189_1.png"
+    ]
+  },
+  {
+    "id": 190,
+    "question": "The sign indicates",
+    "options": [
+      "No entry for all vehicles.",
+      "The road ahead leads to a dead end.",
+      "No parking for all vehicles."
+    ],
+    "images": [
+      "assets/images/q190_1.png"
+    ]
+  },
+  {
+    "id": 191,
+    "question": "The engine is cooled by a combination of ______",
+    "options": [
+      "air and water only",
+      "oil and water only",
+      "oil, air and water"
+    ],
+    "images": [
+      "assets/images/q191_1.png"
+    ]
+  },
+  {
+    "id": 192,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles must only go straight ahead.",
+      "one way road ahead.",
+      "one-way traffic"
+    ],
+    "images": [
+      "assets/images/q192_1.png"
+    ]
+  },
+  {
+    "id": 193,
+    "question": "When topping up fuel at a petrol station, your engine should be",
+    "options": [
+      "switched off.",
+      "switched off only if you do not have a fire extinguisher in the vehicle.",
+      "left idling."
+    ],
+    "images": [
+      "assets/images/q193_1.png"
+    ]
+  },
+  {
+    "id": 194,
+    "question": "When stopping your vehicle,",
+    "options": [
+      "stop close to and before the stop-line.",
+      "stop directly over the stop-line.",
+      "stop at least 1 meter before the stop-line"
+    ],
+    "images": [
+      "assets/images/q194_1.png"
+    ]
+  },
+  {
+    "id": 195,
+    "question": "When driving on steel plates laid on unfinished road works, you should",
+    "options": [
+      "speed up to pass through quickly.",
+      "slow down.",
+      "maintain your speed"
+    ],
+    "images": [
+      "assets/images/q195_1.png"
+    ]
+  },
+  {
+    "id": 196,
+    "question": "Which gear has a higher power?",
+    "options": [
+      "Gear 1",
+      "Gear 3",
+      "Gear 5"
+    ],
+    "images": [
+      "assets/images/q196_1.png"
+    ]
+  },
+  {
+    "id": 197,
+    "question": "When you are driving on an expressway and received an emergency mobile call, you should:",
+    "options": [
+      "ignore it, because it is an offense to use handphone when driving.",
+      "pull to the slower lane, then answer it.",
+      "answer it if you have a hands-free microphone."
+    ],
+    "images": [
+      "assets/images/q197_1.png"
+    ]
+  },
+  {
+    "id": 198,
+    "question": "Do not let your vehicle wait or park within ____ of a junction.",
+    "options": [
+      "8 metres",
+      "10 metres",
+      "6 metres"
+    ],
+    "images": [
+      "assets/images/q198_1.png"
+    ]
+  },
+  {
+    "id": 199,
+    "question": "After driving through a flooded road, you noticed that the brakes are not functioning, you should",
+    "options": [
+      "change to lower gear and drive your vehicle to nearby shop for examining and repair.",
+      "pump the brake pedal a few times to see whether can make it work.",
+      "change to lower gear, turn on hazard lights, then off the engine."
+    ],
+    "images": [
+      "assets/images/q199_1.png"
+    ]
+  },
+  {
+    "id": 200,
+    "question": "When approaching a school or hospital,",
+    "options": [
+      "you should never sound your horn.",
+      "you may sound your horn when necessary to avoid accident.",
+      "you should always slow down."
+    ],
+    "images": [
+      "assets/images/q200_1.png"
+    ]
+  },
+  {
+    "id": 201,
+    "question": "At an uncontrolled junction without \"Give Way\" and \"Stop\" sign, if you are turning right, you must:",
+    "options": [
+      "give way to traffic going straight from all direction.",
+      "give way only to traffic turning right from the right.",
+      "give way only to traffic turning left from the opposite direction."
+    ],
+    "images": [
+      "assets/images/q201_1.png"
+    ]
+  },
+  {
+    "id": 202,
+    "question": "Driving with bald / worn out tyres is dangerous since :",
+    "options": [
+      "your vehicle may skid",
+      "you may lose control of your vehicle.",
+      "both A and B"
+    ],
+    "images": [
+      "assets/images/q202_1.png"
+    ]
+  },
+  {
+    "id": 203,
+    "question": "Which of the following statement is incorrect, when following another vehicle?",
+    "options": [
+      "should leave more space when the front vehicle is smaller and lighter such as motorcycles.",
+      "should leave more space when your own vehicle is heavily loaded.",
+      "should leave lesser space when traveling on the expressway, so as not to cause obstruction."
+    ],
+    "images": [
+      "assets/images/q203_1.png"
+    ]
+  },
+  {
+    "id": 204,
+    "question": "Unless otherwise stated, the speed limit of all roads in Singapore is 50km/h, therefore",
+    "options": [
+      "you should not drive a sports car.",
+      "you should only drive at 50km/h or at the speed limit of the vehicle, whichever is lesser.",
+      "you should not exceed 50km/h or the speed limit of the vehicle, whichever is lesser."
+    ],
+    "images": [
+      "assets/images/q204_1.png"
+    ]
+  },
+  {
+    "id": 205,
+    "question": "Can Vehicle (not omnibuses) use the bus lanes on public holidays during restricted hours?",
+    "options": [
+      "Yes",
+      "No",
+      "Never."
+    ],
+    "images": [
+      "assets/images/q205_1.png"
+    ]
+  },
+  {
+    "id": 206,
+    "question": "You should dip the headlights to low-beam when another oncoming vehicle is within",
+    "options": [
+      "50 metres",
+      "100 metres",
+      "150 metres"
+    ],
+    "images": [
+      "assets/images/q206_1.png"
+    ]
+  },
+  {
+    "id": 207,
+    "question": "upon seeing a red light with flickering green arrow, what should you do if you want to turn right?",
+    "options": [
+      "Proceed with caution, signal is about to be canceled.",
+      "Do not proceed if you have not crossed the stop-line.",
+      "Do not proceed if you have crossed the stop-line."
+    ],
+    "images": [
+      "assets/images/q207_1.png"
+    ]
+  },
+  {
+    "id": 208,
+    "question": "How much distance you should keep from a bus stop or bus bay when stopping or parking your vehicle.",
+    "options": [
+      "at least 3 metres away.",
+      "at least 6 metres away.",
+      "at least 9 metres away."
+    ],
+    "images": [
+      "assets/images/q208_1.png"
+    ]
+  },
+  {
+    "id": 209,
+    "question": "Which of the following is correct?",
+    "options": [
+      "Provisional Driving Licence (PDL) is valid for 6 months",
+      "Provisional Driving Licence (PDL) is valid for 12 months",
+      "Provisional Driving Licence (PDL) is valid for 24 months"
+    ],
+    "images": [
+      "assets/images/q209_1.png"
+    ]
+  },
+  {
+    "id": 210,
+    "question": "When approaching a hospital, you see a No Horn sign, and an upcoming vehicle suddenly cut into your path,",
+    "options": [
+      "You should sound the horn to warn the other road user.",
+      "You should slow down and without sounding the horn.",
+      "You should slow down and meanwhile sound the horn."
+    ],
+    "images": [
+      "assets/images/q210_1.png"
+    ]
+  },
+  {
+    "id": 211,
+    "question": "The Provisional Driving License is valid for",
+    "options": [
+      "6 months.",
+      "8 months.",
+      "12 months."
+    ],
+    "images": [
+      "assets/images/q211_1.png"
+    ]
+  },
+  {
+    "id": 212,
+    "question": "Turn Left On Red means",
+    "options": [
+      "Vehicle can turn left even though the traffic light is red.",
+      "Vehicle can turn right even though the traffic light is red.",
+      "Vehicle can turn left or right when the traffic light is red."
+    ],
+    "images": [
+      "assets/images/q212_1.png"
+    ]
+  },
+  {
+    "id": 213,
+    "question": "How should you check the blind spots?",
+    "options": [
+      "turn your head and look over your shoulders.",
+      "check through the side view mirrors.",
+      "check through the rear view mirrors."
+    ],
+    "images": [
+      "assets/images/q213_1.png"
+    ]
+  },
+  {
+    "id": 214,
+    "question": "What does this sign mean?",
+    "options": [
+      "No entry for vehicles with 3 or more axles",
+      "No entry for lorries",
+      "No entry for motorcycles and pedal cycles"
+    ],
+    "images": [
+      "assets/images/q214_1.png"
+    ]
+  },
+  {
+    "id": 215,
+    "question": "When stopping, you should check your:",
+    "options": [
+      "side mirror",
+      "blind spot",
+      "rear mirror, side mirror, blind spots"
+    ],
+    "images": [
+      "assets/images/q215_1.png"
+    ]
+  },
+  {
+    "id": 216,
+    "question": "This sign indicates",
+    "options": [
+      "vehicles must slow down.",
+      "vehicles must keep left.",
+      "vehicles must turn left."
+    ],
+    "images": [
+      "assets/images/q216_1.png"
+    ]
+  },
+  {
+    "id": 217,
+    "question": "Full day bus lanes are denoted by",
+    "options": [
+      "continuous yellow line",
+      "dotted yellow line",
+      "continuous red and yellow line"
+    ],
+    "images": [
+      "assets/images/q217_1.png"
+    ]
+  },
+  {
+    "id": 218,
+    "question": "When turning,",
+    "options": [
+      "keep as close to the kerb as possible.",
+      "keep a distance of at least 0.5 metres from the kerb.",
+      "keep a distance of at least 1 metre from the kerb."
+    ],
+    "images": [
+      "assets/images/q218_1.png"
+    ]
+  },
+  {
+    "id": 219,
+    "question": "If you are at a junction and the \"Red Man\" has come and a pedestrian is still crossing the road, what should you do?",
+    "options": [
+      "move forward",
+      "shout at the pedestrian for being slow",
+      "give way"
+    ],
+    "images": [
+      "assets/images/q219_1.png"
+    ]
+  },
+  {
+    "id": 220,
+    "question": "The sign indicates",
+    "options": [
+      "Any vehicle parked in this zone may have its wheel clamped",
+      "All vehicles entered this zone will have its wheel clamped.",
+      "The wheels of all vehicle in this zone have been clamped."
+    ],
+    "images": [
+      "assets/images/q220_1.png"
+    ]
+  },
+  {
+    "id": 221,
+    "question": "The sign indicates",
+    "options": [
+      "the road ends ahead.",
+      "side road ahead.",
+      "Y junction ahead."
+    ],
+    "images": [
+      "assets/images/q221_1.png"
+    ]
+  },
+  {
+    "id": 222,
+    "question": "When you see a cat walking across your traveling path, you should:",
+    "options": [
+      "slow down and horn to chase it away.",
+      "slow down and stop if necessary to wait for it to complete.",
+      "maintain the speed and steer around it."
+    ],
+    "images": [
+      "assets/images/q222_1.png"
+    ]
+  },
+  {
+    "id": 223,
+    "question": "A person is walking slowly with a stick in his hand, most likely he is ___, and you should slow down and stop if necessary to give way for him to cross the road.",
+    "options": [
+      "Blind",
+      "An elderly",
+      "A Child"
+    ],
+    "images": [
+      "assets/images/q223_1.png"
+    ]
+  },
+  {
+    "id": 224,
+    "question": "When leaving the expressway you should?",
+    "options": [
+      "Accelerate so as not to cause any obstruction",
+      "Remain at the same speed",
+      "Slow down and keep left"
+    ],
+    "images": [
+      "assets/images/q224_1.png"
+    ]
+  },
+  {
+    "id": 225,
+    "question": "When is reversing from a side road to a main road allowed?",
+    "options": [
+      "never",
+      "when there is an obstruction ahead",
+      "when the road is clear"
+    ],
+    "images": [
+      "assets/images/q225_1.png"
+    ]
+  },
+  {
+    "id": 226,
+    "question": "When approaching a roundabout, you should ______",
+    "options": [
+      "speed up so as not to cause any obstruction.",
+      "slow down and give way to traffic on your right.",
+      "always stop before proceeding."
+    ],
+    "images": [
+      "assets/images/q226_1.png"
+    ]
+  },
+  {
+    "id": 227,
+    "question": "How many expressways in Singapore?",
+    "options": [
+      "8",
+      "9",
+      "10"
+    ],
+    "images": [
+      "assets/images/q227_1.png"
+    ]
+  },
+  {
+    "id": 228,
+    "question": "To Apply for the Provisional Driving License(PDL), you must first pass",
+    "options": [
+      "the Riding Theory Test.",
+      "the Basic Driving Theory Test.",
+      "the Final Driving Theory Test"
+    ],
+    "images": [
+      "assets/images/q228_1.png"
+    ]
+  },
+  {
+    "id": 229,
+    "question": "Which of the following is incorrect?",
+    "options": [
+      "Always slow down and be prepared to stop when approaching zebra crossings.",
+      "Pedestrians do not have the right of way on the road while vehicles are still in motion.",
+      "Pedestrians have the right of way on the road even if they are crossing the road at zig-zag lines approaching a zebra crossing."
+    ],
+    "images": [
+      "assets/images/q229_1.png"
+    ]
+  },
+  {
+    "id": 230,
+    "question": "When about to reverse, however your view to the back is obstructed or not clear, you should",
+    "options": [
+      "rely on what you can see and proceed cautiously.",
+      "rely on your experience and proceed cautiously.",
+      "rely on your passenger or anyone else who can help."
+    ],
+    "images": [
+      "assets/images/q230_1.png"
+    ]
+  },
+  {
+    "id": 231,
+    "question": "Which of the following cars MUST only go straight?",
+    "options": [
+      "Car B.",
+      "Car C.",
+      "Car B and C."
+    ],
+    "images": [
+      "assets/images/q231_1.png"
+    ]
+  },
+  {
+    "id": 232,
+    "question": "When your vehicle's tyre treads are worn,",
+    "options": [
+      "the reaction distance will increase.",
+      "the reaction distance will decrease.",
+      "the reaction distance will be the same"
+    ],
+    "images": [
+      "assets/images/q232_1.png"
+    ]
+  },
+  {
+    "id": 233,
+    "question": "Your provisional driving licence has just expired",
+    "options": [
+      "you cannot drive until you have renewed your licence",
+      "you can drive as you are already a qualified driver",
+      "you can drive as there is a grace period of 1 week"
+    ],
+    "images": [
+      "assets/images/q233_1.png"
+    ]
+  },
+  {
+    "id": 234,
+    "question": "When you see this sign whilst driving, you",
+    "options": [
+      "May turn right or left if there is a side road",
+      "must keep left if you are not overtaking",
+      "Cannot turn left or right but must proceed straight ahead"
+    ],
+    "images": [
+      "assets/images/q234_1.png"
+    ]
+  },
+  {
+    "id": 235,
+    "question": "What are the consequences of repeat drink driving?",
+    "options": [
+      "Fine and corrective work order.",
+      "Fine and mandatory jail sentence.",
+      "Fine, mandatory jail sentence and disqualification from driving."
+    ],
+    "images": [
+      "assets/images/q235_1.png"
+    ]
+  },
+  {
+    "id": 236,
+    "question": "What should you do when you are involved in an accident and the other party is injured?",
+    "options": [
+      "Drive away",
+      "Call the police",
+      "Stop, call the police, help the victim and arrange for ambulance if necessary."
+    ],
+    "images": [
+      "assets/images/q236_1.png"
+    ]
+  },
+  {
+    "id": 237,
+    "question": "When turning right into a one way street, that has three lanes, you should turn into",
+    "options": [
+      "the center lane.",
+      "the extreme left lane.",
+      "the extreme right lane."
+    ],
+    "images": [
+      "assets/images/q237_1.png"
+    ]
+  },
+  {
+    "id": 238,
+    "question": "Full day bus lane hours are",
+    "options": [
+      "7.30am - 8pm, Mondays to Saturday",
+      "7am - 8.30pm, Mondays to Saturday",
+      "7.30am - 8pm, Mondays to Sunday"
+    ],
+    "images": [
+      "assets/images/q238_1.png"
+    ]
+  },
+  {
+    "id": 239,
+    "question": "The distance needed to stop a moving vehicle is measured in Reaction Distance + Braking Distance. Which of the following statements is incorrect?",
+    "options": [
+      "Both reaction distance and braking distance decrease when the car is moving in slower speed",
+      "When the road is wet, the stopping distance will increase but reaction distance will stay the same",
+      "Your reaction distance is always constant even if you are tired or have consumed alcohol"
+    ],
+    "images": [
+      "assets/images/q239_1.png"
+    ]
+  },
+  {
+    "id": 240,
+    "question": "When being overtaken, you should ______",
+    "options": [
+      "slow down if necessary to allow the overtaking vehicle to pass.",
+      "move to the right and allow more space for the overtaking vehicle.",
+      "speed up and avoid being overtaken."
+    ],
+    "images": [
+      "assets/images/q240_1.png"
+    ]
+  },
+  {
+    "id": 241,
+    "question": "When should you check on the level of the engine oil?",
+    "options": [
+      "Regularly",
+      "Only when you send the vehicle for inspection.",
+      "When the very first time you drive the vehicle."
+    ],
+    "images": [
+      "assets/images/q241_1.png"
+    ]
+  },
+  {
+    "id": 242,
+    "question": "When can a vehicle enter and wait in the yellow-box at a junction, if not obstruct others?",
+    "options": [
+      "when trying to go straight while waiting for traffic turning left from the left.",
+      "when trying to turn right while waiting for traffic from the left going straight to be clear.",
+      "when trying to turn left while waiting for pedestrians crossing."
+    ],
+    "images": [
+      "assets/images/q242_1.png"
+    ]
+  },
+  {
+    "id": 243,
+    "question": "Which lane should you keep to when you are driving a slower moving vehicle on a three- lane carriageway?",
+    "options": [
+      "the left lane.",
+      "the centre lane.",
+      "the right-hand lane."
+    ],
+    "images": [
+      "assets/images/q243_1.png"
+    ]
+  },
+  {
+    "id": 244,
+    "question": "What do blue circular signs with white border indicate?",
+    "options": [
+      "Warning signs",
+      "Prohibitory signs",
+      "Mandatory Signs"
+    ],
+    "images": [
+      "assets/images/q244_1.png"
+    ]
+  },
+  {
+    "id": 245,
+    "question": "When your vehicle is heavily loaded, the stopping distance will",
+    "options": [
+      "increase",
+      "decrease",
+      "remain the same"
+    ],
+    "images": [
+      "assets/images/q245_1.png"
+    ]
+  },
+  {
+    "id": 246,
+    "question": "Can a Provisional Driving License (PDL) holder drive on the expressway?",
+    "options": [
+      "No, cannot.",
+      "Yes, When he/she is accompanied by a qualified driving instructor.",
+      "Yes, when the L plates are displayed on the vehicle."
+    ],
+    "images": [
+      "assets/images/q246_1.png"
+    ]
+  },
+  {
+    "id": 247,
+    "question": "How can we identify those Advance Directional Signs?",
+    "options": [
+      "Rectangular with green background",
+      "Rectangular but with a chevron shape on one end to indicate the direction",
+      "Rectangular with white background"
+    ],
+    "images": [
+      "assets/images/q247_1.png"
+    ]
+  },
+  {
+    "id": 248,
+    "question": "Upon seeing this sign, you should:",
+    "options": [
+      "Speed up on the right",
+      "Slow down and try not to overtake",
+      "Horn to warn all road users"
+    ],
+    "images": [
+      "assets/images/q248_1.png"
+    ]
+  },
+  {
+    "id": 249,
+    "question": "What should you do when you are pulled over by a traffic police officer?",
+    "options": [
+      "Get out of the vehicle and put your hands on the bonnet.",
+      "Make a run for it.",
+      "Stay in the vehicle and be fully cooperative"
+    ],
+    "images": [
+      "assets/images/q249_1.png"
+    ]
+  },
+  {
+    "id": 250,
+    "question": "A probationary driver who has accumulated 13 or more demerit points within the first 12 months will",
+    "options": [
+      "be fined only",
+      "get his/her license revoked",
+      "be jailed only"
+    ],
+    "images": [
+      "assets/images/q250_1.png"
+    ]
+  },
+  {
+    "id": 251,
+    "question": "What should you do when driving on an unlit road?",
+    "options": [
+      "Dip headlights.",
+      "Turn on high beam.",
+      "Horn periodically to warn others."
+    ],
+    "images": [
+      "assets/images/q251_1.png"
+    ]
+  },
+  {
+    "id": 252,
+    "question": "Your car is traveling behind a long vehicle which is turning left at the junction, you should",
+    "options": [
+      "Quickly overtake the long vehicle",
+      "Stop",
+      "Slow down and wait for the long vehicle to complete the turning"
+    ],
+    "images": [
+      "assets/images/q252_1.png"
+    ]
+  },
+  {
+    "id": 253,
+    "question": "The handbrake should be applied when:",
+    "options": [
+      "stopping on a slope only.",
+      "stopping at a traffic light controlled junction only.",
+      "whenever your vehicle is in a stationary position."
+    ],
+    "images": [
+      "assets/images/q253_1.png"
+    ]
+  },
+  {
+    "id": 254,
+    "question": "When driving along two-way streets, we should always keep to ______",
+    "options": [
+      "Left",
+      "Right",
+      "Centre"
+    ],
+    "images": [
+      "assets/images/q254_1.png"
+    ]
+  },
+  {
+    "id": 255,
+    "question": "A person will never be charged with drink driving if his/her blood or breath alcohol content is below the legal limit.",
+    "options": [
+      "true, even there is an accident involved.",
+      "false",
+      "true, only when there is no accident involved."
+    ],
+    "images": [
+      "assets/images/q255_1.png"
+    ]
+  },
+  {
+    "id": 256,
+    "question": "This sign indicates",
+    "options": [
+      "Taxi stand.",
+      "parking place for all vehicles.",
+      "parking place for lorries only."
+    ],
+    "images": [
+      "assets/images/q256_1.png"
+    ]
+  },
+  {
+    "id": 257,
+    "question": "Where are the emergency exit doors located in the KPE tunnel (Kallang - Paya Lebar Expressway)?",
+    "options": [
+      "only next to the slow lanes of the tunnel",
+      "only next to the fast lanes of the tunnel",
+      "next to both the slow and fast lanes of the tunnel"
+    ],
+    "images": [
+      "assets/images/q257_1.png"
+    ]
+  },
+  {
+    "id": 258,
+    "question": "What should you do when you are driving in a series of bends?",
+    "options": [
+      "Slow down and drive carefully",
+      "Increase your speed",
+      "Stop immediately"
+    ],
+    "images": [
+      "assets/images/q258_1.png"
+    ]
+  },
+  {
+    "id": 259,
+    "question": "What should you do when an omnibus is about to turn right from the bus stand when you are approaching it?",
+    "options": [
+      "horn to express your right of way",
+      "Slow down and let the bus go move on",
+      "sway to the right immediately"
+    ],
+    "images": [
+      "assets/images/q259_1.png"
+    ]
+  },
+  {
+    "id": 260,
+    "question": "Which of the following vehicle is not allowed in the tunnel?",
+    "options": [
+      "a 5m high vehicle",
+      "a lorry carrying heavy goods",
+      "a 12m long vehicle"
+    ],
+    "images": [
+      "assets/images/q260_1.png"
+    ]
+  },
+  {
+    "id": 261,
+    "question": "The sign indicates",
+    "options": [
+      "No entry to the expressway.",
+      "End of the expressway.",
+      "No entry to the front overhead bridge."
+    ],
+    "images": [
+      "assets/images/q261_1.png"
+    ]
+  },
+  {
+    "id": 262,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles with or without load above 10 tonnes are not allowed to pass.",
+      "vehicles with or without load below 10 tonnes are not allowed to pass.",
+      "vehicles with or without load equal 10 tonnes are not allowed to pass. Q263 When turning, which wheel ends up closer to the kerb.",
+      "the rear wheel."
+    ],
+    "images": [
+      "assets/images/q262_1.png"
+    ]
+  },
+  {
+    "id": 264,
+    "question": "When approaching a curve or intersection with poor visibility, you should",
+    "options": [
+      "turn off your headlights",
+      "dip your headlights",
+      "flash your headlights"
+    ],
+    "images": [
+      "assets/images/q264_1.png"
+    ]
+  },
+  {
+    "id": 265,
+    "question": "Which of the following is a proper way to position your vehicle when you are driving on a three-lane carriageway?",
+    "options": [
+      "To the right of the left lane.",
+      "To the centre of the middle lane.",
+      "To the left of the right lane."
+    ],
+    "images": [
+      "assets/images/q265_1.png"
+    ]
+  },
+  {
+    "id": 266,
+    "question": "Upon seeing this sign,",
+    "options": [
+      "you must slow down immediately.",
+      "you should slow down if your speed is above 50km/h.",
+      "you should not slow down if no other vehicles on the road."
+    ],
+    "images": [
+      "assets/images/q266_1.png"
+    ]
+  },
+  {
+    "id": 267,
+    "question": "What should you do when driving into a school zone?",
+    "options": [
+      "Speed up.",
+      "Slow down.",
+      "Maintain constant speed"
+    ],
+    "images": [
+      "assets/images/q267_1.png"
+    ]
+  },
+  {
+    "id": 268,
+    "question": "The sign indicates",
+    "options": [
+      "Pedestrian underpass ahead.",
+      "Tunnel ahead.",
+      "Expressway ahead."
+    ],
+    "images": [
+      "assets/images/q268_1.png"
+    ]
+  },
+  {
+    "id": 269,
+    "question": "You want to drop off a passenger at the side of a road, and you noticed that there are double yellow zig-zag lines. You are wondering whether it is allowed to do so?",
+    "options": [
+      "Yes, it is allowed for immediate picking up and letting down of passengers",
+      "No, no stopping at all times",
+      "Yes, but only between 7.00am and 7.00pm except on Sundays and public holidays"
+    ],
+    "images": [
+      "assets/images/q269_1.png"
+    ]
+  },
+  {
+    "id": 270,
+    "question": "To move off from a stationary position, you have to:",
+    "options": [
+      "signal your intention properly.",
+      "look out for other road users infront and behind.",
+      "Do both of the above (A and B)."
+    ],
+    "images": [
+      "assets/images/q270_1.png"
+    ]
+  },
+  {
+    "id": 271,
+    "question": "With a Provisional Driving License (PDL), which of the following can you do?",
+    "options": [
+      "Drive alone.",
+      "Drive with a qualified driving instructor next to you.",
+      "Drive with an unqualified but experienced driver next to you."
+    ],
+    "images": [
+      "assets/images/q271_1.png"
+    ]
+  },
+  {
+    "id": 272,
+    "question": "A continuous white line along the centre of a road indicates",
+    "options": [
+      "Lane mark of a one-way road.",
+      "Centre line of a two-way road.",
+      "vehicles are allowed to park on the side of the road."
+    ],
+    "images": [
+      "assets/images/q272_1.png"
+    ]
+  },
+  {
+    "id": 273,
+    "question": "'Two-second rule' can be applied when driving at",
+    "options": [
+      "Any speed",
+      "High speed",
+      "Low speed"
+    ],
+    "images": [
+      "assets/images/q273_1.png"
+    ]
+  },
+  {
+    "id": 274,
+    "question": "When should you change engine oil?",
+    "options": [
+      "Immediately after driving and stopping your car.",
+      "Before driving or after the engine section has cooled down.",
+      "Every time when you sent your vehicle to car shop for service."
+    ],
+    "images": [
+      "assets/images/q274_1.png"
+    ]
+  },
+  {
+    "id": 275,
+    "question": "Directional signs are usually",
+    "options": [
+      "circular with a blue background",
+      "rectangular with a blue background",
+      "rectangular with a green background"
+    ],
+    "images": [
+      "assets/images/q275_1.png"
+    ]
+  },
+  {
+    "id": 276,
+    "question": "You may overtake when you are ______",
+    "options": [
+      "at a corner or bend.",
+      "approaching the brow of a hill.",
+      "on a road with single continuous white line in the centre."
+    ],
+    "images": [
+      "assets/images/q276_1.png"
+    ]
+  },
+  {
+    "id": 277,
+    "question": "When the road is wet,",
+    "options": [
+      "the braking distance will increase.",
+      "the reaction distance will increase.",
+      "the stopping distance will decrease."
+    ],
+    "images": [
+      "assets/images/q277_1.png"
+    ]
+  },
+  {
+    "id": 278,
+    "question": "Who needs to use a seat belt?",
+    "options": [
+      "Driver only",
+      "Driver and the front passenger only",
+      "Driver and all the passengers"
+    ],
+    "images": [
+      "assets/images/q278_1.png"
+    ]
+  },
+  {
+    "id": 279,
+    "question": "When can a car enter the yellow box at a junction?",
+    "options": [
+      "Whenever the traffic light is in its favor.",
+      "Never.",
+      "Only when it is not obstructing traffic"
+    ],
+    "images": [
+      "assets/images/q279_1.png"
+    ]
+  },
+  {
+    "id": 280,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles are not allowed to turn right.",
+      "vehicles can only go straight or turn right.",
+      "vehicles have no entry to the left lane."
+    ],
+    "images": [
+      "assets/images/q280_1.png"
+    ]
+  },
+  {
+    "id": 281,
+    "question": "If a driver has consumed alcohol or is tired, his",
+    "options": [
+      "reaction time will decrease",
+      "reaction time will increase",
+      "braking distance will decrease"
+    ],
+    "images": [
+      "assets/images/q281_1.png"
+    ]
+  },
+  {
+    "id": 282,
+    "question": "Upon seeing a green light with an amber arrow, you should ______",
+    "options": [
+      "proceed to turn if you have not crossed the stop-line.",
+      "proceed if you are going straight.",
+      "do not proceed to turn if you have crossed the stop-line."
+    ],
+    "images": [
+      "assets/images/q282_1.png"
+    ]
+  },
+  {
+    "id": 283,
+    "question": "road sweeping ahead, you should",
+    "options": [
+      "slow down and sound the horn",
+      "speed up and change lane",
+      "slow down and change lane if necessary"
+    ],
+    "images": [
+      "assets/images/q283_1.png"
+    ]
+  },
+  {
+    "id": 284,
+    "question": "Can you overtake from the left?",
+    "options": [
+      "yes, if the right lane is congested.",
+      "yes, as long as you can do it safely.",
+      "no, it is an offense."
+    ],
+    "images": [
+      "assets/images/q284_1.png"
+    ]
+  },
+  {
+    "id": 285,
+    "question": "Vehicles which have a speed limit of ___ shall use the left lane of the expressway inside Tunnels.",
+    "options": [
+      "60km/h and below",
+      "55km/h and below",
+      "50km/h and below"
+    ],
+    "images": [
+      "assets/images/q285_1.png"
+    ]
+  },
+  {
+    "id": 286,
+    "question": "before moving off from a stationary position,",
+    "options": [
+      "you should only signal your intention when traffic is congested",
+      "you should always signal your intention",
+      "you should never signal your intention"
+    ],
+    "images": [
+      "assets/images/q286_1.png"
+    ]
+  },
+  {
+    "id": 287,
+    "question": "When you see a U-turn sign at the road junction, it indicates",
+    "options": [
+      "You may U-turn",
+      "You must U-turn",
+      "You must U-turn if there is no vehicle blocking"
+    ],
+    "images": [
+      "assets/images/q287_1.png"
+    ]
+  },
+  {
+    "id": 288,
+    "question": "When approaching a puddle of water, you should",
+    "options": [
+      "maintain your speed and proceed cautiously.",
+      "stop to ensure a safe passing before proceeding.",
+      "slow down and avoid spraying or splashing water onto pedestrians around."
+    ],
+    "images": [
+      "assets/images/q288_1.png"
+    ]
+  },
+  {
+    "id": 289,
+    "question": "What is a potential hazard when staying in your car with the engine running for prolonged periods of time?",
+    "options": [
+      "Wasting car battery.",
+      "Carbon monoxide poisoning.",
+      "Catastrophic engine failure."
+    ],
+    "images": [
+      "assets/images/q289_1.png"
+    ]
+  },
+  {
+    "id": 290,
+    "question": "The sign indicates",
+    "options": [
+      "road hump ahead.",
+      "uneven road ahead.",
+      "series of bends ahead."
+    ],
+    "images": [
+      "assets/images/q290_1.png"
+    ]
+  },
+  {
+    "id": 291,
+    "question": "Vehicles are not allowed to park within ___ of a fire hydrant.",
+    "options": [
+      "3 metres",
+      "6 metres",
+      "9 metres"
+    ],
+    "images": [
+      "assets/images/q291_1.png"
+    ]
+  },
+  {
+    "id": 292,
+    "question": "A safe following distance is at least one car length for every ___ of your speed.",
+    "options": [
+      "10 km/h",
+      "16 km/h",
+      "20 km/h"
+    ],
+    "images": [
+      "assets/images/q292_1.png"
+    ]
+  },
+  {
+    "id": 293,
+    "question": "When the Green B traffic light signal appears",
+    "options": [
+      "all vehicles in the first lane may proceed",
+      "vehicle may proceed when no buses in the traffic",
+      "only buses may proceed"
+    ],
+    "images": [
+      "assets/images/q293_1.png"
+    ]
+  },
+  {
+    "id": 294,
+    "question": "To use the mobile phone or answering a call while you are driving. Which of the following is not a proper practice?",
+    "options": [
+      "drive to a car park and make the call.",
+      "stop at the road side and make the call.",
+      "making the call with one hand, the other hand holding the steering wheel."
+    ],
+    "images": [
+      "assets/images/q294_1.png"
+    ]
+  },
+  {
+    "id": 295,
+    "question": "When parking, you must engage the handbrake",
+    "options": [
+      "at all times",
+      "if you are on a slope",
+      "only when facing downhill"
+    ],
+    "images": [
+      "assets/images/q295_1.png"
+    ]
+  },
+  {
+    "id": 296,
+    "question": "Which of the following can be taken as a rule of thumb to avoid tail-gating?",
+    "options": [
+      "The Two-Second rule.",
+      "The Three-Second rule.",
+      "The Four-Second rule."
+    ],
+    "images": [
+      "assets/images/q296_1.png"
+    ]
+  },
+  {
+    "id": 297,
+    "question": "The car you intend to overtake suddenly overtakes the car in front of it, you should ______",
+    "options": [
+      "speed up and overtake both of them.",
+      "wait for it to complete its overtaking.",
+      "sound your horn."
+    ],
+    "images": [
+      "assets/images/q297_1.png"
+    ]
+  },
+  {
+    "id": 298,
+    "question": "Good habit of securing your vehicle is _______",
+    "options": [
+      "Look, Leave and Lock",
+      "Leave, Look and Lock",
+      "Lock, Look and Leave"
+    ],
+    "images": [
+      "assets/images/q298_1.png"
+    ]
+  },
+  {
+    "id": 299,
+    "question": "Upon seeing a green light with a red arrow, you should ______",
+    "options": [
+      "proceed in the direction indicated if you have crossed the stop-line.",
+      "stop if you are going straight.",
+      "proceed if you are going straight and stop if you are turning."
+    ],
+    "images": [
+      "assets/images/q299_1.png"
+    ]
+  },
+  {
+    "id": 300,
+    "question": "There is a slow moving vehicle in front of you, and you are approaching a zebra crossing,",
+    "options": [
+      "you may overtake it before the zebra crossing.",
+      "you may overtake it only after the zebra crossing.",
+      "you should never overtake it."
+    ],
+    "images": [
+      "assets/images/q300_1.png"
+    ]
+  },
+  {
+    "id": 301,
+    "question": "When are slower moving vehicles allowed to use the right-hand lane.",
+    "options": [
+      "Slower moving vehicles should never use the right-hand lane.",
+      "Slower moving vehicles should only use the right-hand lane when they are turning right.",
+      "Slower moving vehicles should only use the right-hand lane when there is a traffic hold-up."
+    ],
+    "images": [
+      "assets/images/q301_1.png"
+    ]
+  },
+  {
+    "id": 302,
+    "question": "You may park your vehicle on the side of a road with _____",
+    "options": [
+      "broken white line along the centre.",
+      "single continuous white line along the centre.",
+      "parallel continuous white lines along the centre."
+    ],
+    "images": [
+      "assets/images/q302_1.png"
+    ]
+  },
+  {
+    "id": 303,
+    "question": "When you see the flashing amber light, you should:",
+    "options": [
+      "Proceed cautiously because the traffic lights are out of order.",
+      "Slow down and prepare to stop.",
+      "Stop unless you are too close to the stop line"
+    ],
+    "images": [
+      "assets/images/q303_1.png"
+    ]
+  },
+  {
+    "id": 304,
+    "question": "How a driver should stop a manually transmitted car on an uphill slope?",
+    "options": [
+      "apply the handbrake first follow by the foot brake",
+      "apply the foot brake first follow by the handbrake",
+      "apply the foot brake only"
+    ],
+    "images": [
+      "assets/images/q304_1.png"
+    ]
+  },
+  {
+    "id": 305,
+    "question": "The sign indicates",
+    "options": [
+      "No parking for long vehicles.",
+      "No entry for lorries.",
+      "No entry for vehicles with 3 or more axles."
+    ],
+    "images": [
+      "assets/images/q305_1.png"
+    ]
+  },
+  {
+    "id": 306,
+    "question": "If your indicator lights or brake lights are faulty, you should not drive. because ___",
+    "options": [
+      "other road users may not know your intention.",
+      "it is a serious offense to do so.",
+      "you will be misled by other road users."
+    ],
+    "images": [
+      "assets/images/q306_1.png"
+    ]
+  },
+  {
+    "id": 307,
+    "question": "At an uncontrolled junction, which car has the right of way to go first?",
+    "options": [
+      "The black car.",
+      "The yellow car.",
+      "The blue car."
+    ],
+    "images": [
+      "assets/images/q307_1.png"
+    ]
+  },
+  {
+    "id": 308,
+    "question": "This sign indicates",
+    "options": [
+      "bus stop ahead.",
+      "bus lane ahead.",
+      "beware of bus crossing the road ahead."
+    ],
+    "images": [
+      "assets/images/q308_1.png"
+    ]
+  },
+  {
+    "id": 309,
+    "question": "This sign indicates",
+    "options": [
+      "vehicles must stop close to but before the white stop line.",
+      "pedestrians must stop and give way for vehicles on major road.",
+      "vehicles must stop immediately to give way to other road users."
+    ],
+    "images": [
+      "assets/images/q309_1.png"
+    ]
+  },
+  {
+    "id": 310,
+    "question": "you should change your tyres when ___",
+    "options": [
+      "the tyre is bald or punctured.",
+      "the thickness of the tread surface is less than 1.6mm.",
+      "both A and B."
+    ],
+    "images": [
+      "assets/images/q310_1.png"
+    ]
+  },
+  {
+    "id": 311,
+    "question": "While you are overtaking a vehicle and it suddenly increase its speed, you should ______",
+    "options": [
+      "slow down and return to your original position.",
+      "accelerate and insist on your overtaking.",
+      "race and wait for it to slow down."
+    ],
+    "images": [
+      "assets/images/q311_1.png"
+    ]
+  },
+  {
+    "id": 312,
+    "question": "Where can you find Traffic Information Displays (TID) which show traffic conditions ahead?",
+    "options": [
+      "Along the expressways",
+      "Along the major roads",
+      "Every 500m on the road to inform road users of potential hazards"
+    ],
+    "images": [
+      "assets/images/q312_1.png"
+    ]
+  },
+  {
+    "id": 313,
+    "question": "How many areas cannot be viewed in the mirrors of a vehicle when seated on the driver's seat, which are referred as the blind spots?",
+    "options": [
+      "2",
+      "3",
+      "4"
+    ],
+    "images": [
+      "assets/images/q313_1.png"
+    ]
+  },
+  {
+    "id": 314,
+    "question": "If a car behind your vehicle intends to race speed with you, what should you do?",
+    "options": [
+      "Speed with him",
+      "Stop immediately",
+      "Ignore him and drive within the speed limit Q315 Upon seeing this road marking, you should ______",
+      "slow down and prepare to give way to traffic behind."
+    ],
+    "images": [
+      "assets/images/q314_1.png"
+    ]
+  },
+  {
+    "id": 316,
+    "question": "When there is a single yellow zig-zag line along the road, it indicates ______",
+    "options": [
+      "No parking at all times on that side.",
+      "No picking up or letting down of passengers on that side.",
+      "You may park on that side on Sundays and public holidays."
+    ],
+    "images": [
+      "assets/images/q316_1.png"
+    ]
+  },
+  {
+    "id": 317,
+    "question": "The sign indicates",
+    "options": [
+      "a steep upward slope ahead.",
+      "a steep downward slope ahead.",
+      "uneven road ahead."
+    ],
+    "images": [
+      "assets/images/q317_1.png"
+    ]
+  },
+  {
+    "id": 318,
+    "question": "Road hogging will:",
+    "options": [
+      "prevent accident.",
+      "hold up the flow of traffic.",
+      "allow other vehicles to overtake you."
+    ],
+    "images": [
+      "assets/images/q318_1.png"
+    ]
+  },
+  {
+    "id": 319,
+    "question": "Upon seeing a flashing amber light, you should ______",
+    "options": [
+      "slow down and prepare to stop.",
+      "stop, unless you are too close to the stop-line to stop safely.",
+      "proceed with caution, give way to traffic on the right."
+    ],
+    "images": [
+      "assets/images/q319_1.png"
+    ]
+  },
+  {
+    "id": 320,
+    "question": "The \"Two-Second\" rule should be used",
+    "options": [
+      "when the weather is good.",
+      "when the weather is bad.",
+      "in both good and bad weather conditions."
+    ],
+    "images": [
+      "assets/images/q320_1.png"
+    ]
+  },
+  {
+    "id": 321,
+    "question": "This sign indicates",
+    "options": [
+      "road on the right does not lead to another road.",
+      "road on the right leads to an accident area.",
+      "road on the right leads to an restricted area."
+    ],
+    "images": [
+      "assets/images/q321_1.png"
+    ]
+  },
+  {
+    "id": 322,
+    "question": "Which of the following is correct?",
+    "options": [
+      "steering wheel controls traveling direction",
+      "steering wheel controls traveling speed",
+      "steering wheel controls both traveling direction and speed"
+    ],
+    "images": [
+      "assets/images/q322_1.png"
+    ]
+  },
+  {
+    "id": 323,
+    "question": "When are you allowed to park or let your vehicle wait within 9 metres of a bus stop?",
+    "options": [
+      "never",
+      "when need to alighting passenger",
+      "when your vehicle breaks down"
+    ],
+    "images": [
+      "assets/images/q323_1.png"
+    ]
+  },
+  {
+    "id": 324,
+    "question": "The 2 second rule is to ensure ___",
+    "options": [
+      "a safe following distance.",
+      "a safe braking distance.",
+      "a safe reaction distance."
+    ],
+    "images": [
+      "assets/images/q324_1.png"
+    ]
+  },
+  {
+    "id": 325,
+    "question": "Following another vehicle very closely behind",
+    "options": [
+      "is very safe as the visibility will be clear",
+      "may lead to an accident",
+      "is encouraged as it gives more space to the vehicles behind"
+    ],
+    "images": [
+      "assets/images/q325_1.png"
+    ]
+  },
+  {
+    "id": 326,
+    "question": "A continuous white line is the centre line of a two-way road. Vehicles should keep to the left of this line.",
+    "options": [
+      "Overtaking is not allowed on either side of the road at all times.",
+      "Parking is not allowed on either side of the road at all times.",
+      "Overtaking and parking are not allowed on either side of the road at all times."
+    ],
+    "images": [
+      "assets/images/q326_1.png"
+    ]
+  },
+  {
+    "id": 327,
+    "question": "upon seeing a red arrow, you should ______",
+    "options": [
+      "stop behind the stop-line in the direction indicated.",
+      "proceed except if there is oncoming traffic.",
+      "proceed even there is traffic from the opposite direction."
+    ],
+    "images": [
+      "assets/images/q327_1.png"
+    ]
+  },
+  {
+    "id": 328,
+    "question": "Upon seeing this sign, you should ______",
+    "options": [
+      "slow down, there is a pedestrian crossing ahead.",
+      "slow down, there is road works ahead.",
+      "slow down, there is an obstruction ahead."
+    ],
+    "images": [
+      "assets/images/q328_1.png"
+    ]
+  },
+  {
+    "id": 329,
+    "question": "When you miss the exit point on an expressway, you should?",
+    "options": [
+      "Reverse and exit",
+      "Move on to the road shoulder",
+      "Drive ahead and exit at the next exit point"
+    ],
+    "images": [
+      "assets/images/q329_1.png"
+    ]
+  },
+  {
+    "id": 330,
+    "question": "The sign indicates",
+    "options": [
+      "Y junction, you should slow down.",
+      "Merging traffic, beware of traffic joining from the left.",
+      "two-way traffic ahead."
+    ],
+    "images": [
+      "assets/images/q330_1.png"
+    ]
+  },
+  {
+    "id": 331,
+    "question": "This sign indicates",
+    "options": [
+      "vehicles must turn left immediately.",
+      "one way road ahead.",
+      "vehicles must turn left ahead."
+    ],
+    "images": [
+      "assets/images/q331_1.png"
+    ]
+  },
+  {
+    "id": 332,
+    "question": "This sign indicates",
+    "options": [
+      "An overhead bridge ahead.",
+      "the start of an expressway.",
+      "Tunnel ahead."
+    ],
+    "images": [
+      "assets/images/q332_1.png"
+    ]
+  },
+  {
+    "id": 333,
+    "question": "Which of the following statement is incorrect?",
+    "options": [
+      "the load should always be securely fastened for any vehicles on the road.",
+      "workers should sit down properly when they are in lorries on the road.",
+      "workers should never be carried together with goods in the same lorry."
+    ],
+    "images": [
+      "assets/images/q333_1.png"
+    ]
+  },
+  {
+    "id": 334,
+    "question": "At what age can you start to apply to get a driving license?",
+    "options": [
+      "16",
+      "18",
+      "20"
+    ],
+    "images": [
+      "assets/images/q334_1.png"
+    ]
+  },
+  {
+    "id": 335,
+    "question": "You are at a junction where a pedestrian is still crossing the road even when the Red Man has come on. You should:",
+    "options": [
+      "give way",
+      "move forward",
+      "sound the horn"
+    ],
+    "images": [
+      "assets/images/q335_1.png"
+    ]
+  },
+  {
+    "id": 336,
+    "question": "The sign indicates",
+    "options": [
+      "turn left ahead.",
+      "turn left only.",
+      "Left bend ahead"
+    ],
+    "images": [
+      "assets/images/q336_1.png"
+    ]
+  },
+  {
+    "id": 337,
+    "question": "You may park your vehicle between 7:00pm and 7:00am from Monday to Saturday on a road, which has ______",
+    "options": [
+      "a continuous yellow line along the side.",
+      "parallel continuous yellow lines along the side.",
+      "a single yellow zig-zag line along the side."
+    ],
+    "images": [
+      "assets/images/q337_1.png"
+    ]
+  },
+  {
+    "id": 338,
+    "question": "When is the best time to check your tire pressure?",
+    "options": [
+      "Before leaving your home/car park.",
+      "After driving and parked your car.",
+      "At a red traffic light junction."
+    ],
+    "images": [
+      "assets/images/q338_1.png"
+    ]
+  },
+  {
+    "id": 339,
+    "question": "You hear an ambulance siren approaching from behind, you should",
+    "options": [
+      "slow down and keep to the left for it to pass.",
+      "stop immediately for it to pass.",
+      "maintain the speed for it to pass."
+    ],
+    "images": [
+      "assets/images/q339_1.png"
+    ]
+  },
+  {
+    "id": 340,
+    "question": "Which of the following statement is incorrect?",
+    "options": [
+      "On a two-way street, position the vehicle to the right when intending to overtake.",
+      "On a two-way street, position the vehicle to the right when intending to turn right.",
+      "On a two-way street, position the vehicle to the left when intending to overtake."
+    ],
+    "images": [
+      "assets/images/q340_1.png"
+    ]
+  },
+  {
+    "id": 341,
+    "question": "Upon seeing the \"End of school zone\" sign, you",
+    "options": [
+      "need not be cautious of school students crossing",
+      "should speed up",
+      "should proceed to drive safely and keep to the speed limit"
+    ],
+    "images": [
+      "assets/images/q341_1.png"
+    ]
+  },
+  {
+    "id": 342,
+    "question": "The penalty for drink driving is a fine of 1,000 to 5,000 dollars or a maximum term of 6 months imprisonment, plus",
+    "options": [
+      "one year disqualification of driving licence.",
+      "6 month disqualification of driving licence.",
+      "9 month disqualification of driving licence."
+    ],
+    "images": [
+      "assets/images/q342_1.png"
+    ]
+  },
+  {
+    "id": 343,
+    "question": "You are not allowed to park your vehicle or cross the centre line on a road, which has ______",
+    "options": [
+      "a single broken white line along the center.",
+      "a single continuous white line along the center.",
+      "two parallel continuous white lines along the center."
+    ],
+    "images": [
+      "assets/images/q343_1.png"
+    ]
+  },
+  {
+    "id": 344,
+    "question": "What should you do when you are approaching a pool of water?",
+    "options": [
+      "speed up",
+      "slow down",
+      "stop immediately"
+    ],
+    "images": [
+      "assets/images/q344_1.png"
+    ]
+  },
+  {
+    "id": 345,
+    "question": "When the light turns green, how many seconds should you wait before proceeding?",
+    "options": [
+      "0.5 seconds",
+      "8 seconds",
+      "2 seconds"
+    ],
+    "images": [
+      "assets/images/q345_1.png"
+    ]
+  },
+  {
+    "id": 346,
+    "question": "At least how many meters must this sign be placed from a breakdown vehicle?",
+    "options": [
+      "20 meters from the rear of the breakdown vehicle",
+      "30 meters from the rear of the breakdown vehicle",
+      "40 meters from the rear of the breakdown vehicle"
+    ],
+    "images": [
+      "assets/images/q346_1.png"
+    ]
+  },
+  {
+    "id": 347,
+    "question": "This sign indicates",
+    "options": [
+      "no entry for vehicles with overall width less than 2.3 meters.",
+      "no entry for vehicles with overall width exceeding 2.3 meters.",
+      "no entry for vehicles with overall height exceeding 2.3 meters."
+    ],
+    "images": [
+      "assets/images/q347_1.png"
+    ]
+  },
+  {
+    "id": 348,
+    "question": "The sign indicates",
+    "options": [
+      "two-way traffic across a one-way carriageway.",
+      "two-way traffic ahead.",
+      "turn left or right."
+    ],
+    "images": [
+      "assets/images/q348_1.png"
+    ]
+  },
+  {
+    "id": 349,
+    "question": "Upon seeing this sign, you should slow down and",
+    "options": [
+      "beware of elderly people crossing the road.",
+      "beware of blind people crossing the road.",
+      "beware of children crossing the road."
+    ],
+    "images": [
+      "assets/images/q349_1.png"
+    ]
+  },
+  {
+    "id": 350,
+    "question": "Do not park your vehicle or let your vehicle wait in",
+    "options": [
+      "any normal bus lanes between 7.30am to 9.30am, 5.00pm to 8.00pm on Mondays to Fridays.",
+      "any full day bus lanes between 7.30am to 8pm on Mondays to Saturdays, except public holidays.",
+      "any bus lanes at all times."
+    ],
+    "images": [
+      "assets/images/q350_1.png"
+    ]
+  },
+  {
+    "id": 351,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles must travel at a speed not more than 40km/h.",
+      "vehicles must travel at a speed not less than 40km/h.",
+      "vehicles must travel at a speed around 40km/h."
+    ],
+    "images": [
+      "assets/images/q351_1.png"
+    ]
+  },
+  {
+    "id": 352,
+    "question": "What should you do if you are parking in an unlit or poorly lit road?",
+    "options": [
+      "leave the head lights on",
+      "leave the hazard lights on",
+      "leave the side or parking lights on Q353 When turning, which wheel tends to pull closer to the kerb?",
+      "the front nearside wheel."
+    ],
+    "images": [
+      "assets/images/q352_1.png"
+    ]
+  },
+  {
+    "id": 354,
+    "question": "Bus lanes that are denoted by a continuous yellow line operate",
+    "options": [
+      "from 7.30am-8pm, Mondays to Saturdays",
+      "from 7.30am-8pm, Mondays to Friday",
+      "from 7.30am-9.30am, 5pm-8pm, Mondays to Friday"
+    ],
+    "images": [
+      "assets/images/q354_1.png"
+    ]
+  },
+  {
+    "id": 355,
+    "question": "When approaching a traffic light controlled junction, you should",
+    "options": [
+      "always stop.",
+      "slow down.",
+      "speed up before the light changes."
+    ],
+    "images": [
+      "assets/images/q355_1.png"
+    ]
+  },
+  {
+    "id": 356,
+    "question": "What might be the consequence of tailgating?",
+    "options": [
+      "the behind vehicle might crash into the front vehicle.",
+      "the front vehicle might stop suddenly.",
+      "the behind vehicle might traveled too fast."
+    ],
+    "images": [
+      "assets/images/q356_1.png"
+    ]
+  },
+  {
+    "id": 357,
+    "question": "What should you not do when you are at the bend, brow of a hill or a bridge?",
+    "options": [
+      "speed up a little if too slow, but ensure not to exceed the speed limit of the road or the vehicle.",
+      "park or let your vehicle wait",
+      "drive slowly and carefully"
+    ],
+    "images": [
+      "assets/images/q357_1.png"
+    ]
+  },
+  {
+    "id": 358,
+    "question": "If a pedestrian starts to run across the road when the traffic lights turn green in your favor, you should",
+    "options": [
+      "proceed with caution so as not to obstruct other vehicles behind.",
+      "sound the horn to warn the pedestrian.",
+      "wait and proceed when the road is clear."
+    ],
+    "images": [
+      "assets/images/q358_1.png"
+    ]
+  },
+  {
+    "id": 359,
+    "question": "When should the radiator coolant level been checked?",
+    "options": [
+      "Every day before moving off",
+      "Wait until the engine of your vehicle has cooled down.",
+      "Immediately after you have switched off the engine."
+    ],
+    "images": [
+      "assets/images/q359_1.png"
+    ]
+  },
+  {
+    "id": 360,
+    "question": "Should you drive if you feel giddy after taking medicine?",
+    "options": [
+      "yes",
+      "no",
+      "as you wish"
+    ],
+    "images": [
+      "assets/images/q360_1.png"
+    ]
+  },
+  {
+    "id": 361,
+    "question": "Information, facilities or service signs are usually",
+    "options": [
+      "circular",
+      "rectangular",
+      "triangular"
+    ],
+    "images": [
+      "assets/images/q361_1.png"
+    ]
+  },
+  {
+    "id": 362,
+    "question": "Parallel continuous yellow lines indicate ___ at all times on that side of the road where these lines are drawn, except for immediate picking up or letting down of passengers.",
+    "options": [
+      "no parking",
+      "no parking or waiting",
+      "no parking or stopping"
+    ],
+    "images": [
+      "assets/images/q362_1.png"
+    ]
+  },
+  {
+    "id": 363,
+    "question": "A flashing amber light means",
+    "options": [
+      "The signal is about to change to red",
+      "The signal is about to change to green",
+      "Traffic light signals are out of order"
+    ],
+    "images": [
+      "assets/images/q363_1.png"
+    ]
+  },
+  {
+    "id": 364,
+    "question": "Which of the following is NOT an appropriate response when you see a warning sign?",
+    "options": [
+      "Beware of possible dangers ahead",
+      "Take extra care and slow down when approaching them",
+      "Ignore it"
+    ],
+    "images": [
+      "assets/images/q364_1.png"
+    ]
+  },
+  {
+    "id": 365,
+    "question": "When there are parallel continuous yellow lines along the side of a road, it indicates ______",
+    "options": [
+      "no parking at all times on that side.",
+      "no parking is allowed between 7:00am and 7:00pm on that side.",
+      "parking is allowed on that side only on Sundays and public holidays."
+    ],
+    "images": [
+      "assets/images/q365_1.png"
+    ]
+  },
+  {
+    "id": 366,
+    "question": "Once you obtained a Provisional Driving License (PDL),",
+    "options": [
+      "you are allowed to practice on public roads by yourself.",
+      "you are allowed to practice on public roads provided that you are accompanied by a qualified driving instructor.",
+      "you are allowed to practice within the driving circuit but not on public roads."
+    ],
+    "images": [
+      "assets/images/q366_1.png"
+    ]
+  },
+  {
+    "id": 367,
+    "question": "What should you do if you see an accident on the road?",
+    "options": [
+      "speed up and pass through quickly",
+      "Slow down and proceed with caution",
+      "Stop and see what is happening"
+    ],
+    "images": [
+      "assets/images/q367_1.png"
+    ]
+  },
+  {
+    "id": 368,
+    "question": "Which of the following statements is TRUE?",
+    "options": [
+      "if you are driving an omnibus, you can park at the bus lane at all other times except during restricted hours.",
+      "Omnibuses should also avoid using the bus lanes during restricted hours.",
+      "Bus lane restricted hours does not apply on weekdays if it is a public holiday."
+    ],
+    "images": [
+      "assets/images/q368_1.png"
+    ]
+  },
+  {
+    "id": 369,
+    "question": "The legal limit for breath alcohol content is ___ microgrammes (ug) per 100 mililitres (ml) of breath.",
+    "options": [
+      "35",
+      "40",
+      "45"
+    ],
+    "images": [
+      "assets/images/q369_1.png"
+    ]
+  },
+  {
+    "id": 370,
+    "question": "When stopping your vehicle at a traffic light controlled junction, which of the following is incorrect",
+    "options": [
+      "Stop before and close to the stop-line",
+      "Apply handbrake after stopping",
+      "Inch forward while waiting for the lights to change so as to move quickly"
+    ],
+    "images": [
+      "assets/images/q370_1.png"
+    ]
+  },
+  {
+    "id": 371,
+    "question": "Who shall wear booster seat or approved adjustable seat belt instead of wearing a normal seat belt when traveling in a vehicle?",
+    "options": [
+      "Passengers with height above 1.35 meters",
+      "Passengers with height below 1.35 meters",
+      "Passengers with height above 2.0 meters"
+    ],
+    "images": [
+      "assets/images/q371_1.png"
+    ]
+  },
+  {
+    "id": 372,
+    "question": "Upon seeing the sign, you should",
+    "options": [
+      "slow down, beware of elderly or handicapped people crossing the road.",
+      "slow down, beware of children crossing the road.",
+      "slow down, beware of blind people crossing the road."
+    ],
+    "images": [
+      "assets/images/q372_1.png"
+    ]
+  },
+  {
+    "id": 373,
+    "question": "When is tailgating acceptable?",
+    "options": [
+      "When you want the vehicle in front to speed up",
+      "when you want the vehicle in front to give way",
+      "tailgating is never acceptable"
+    ],
+    "images": [
+      "assets/images/q373_1.png"
+    ]
+  },
+  {
+    "id": 374,
+    "question": "Prohibitory or restrictive signs are",
+    "options": [
+      "usually circular with red borders.",
+      "usually squarish with red borders.",
+      "usually circular with white borders."
+    ],
+    "images": [
+      "assets/images/q374_1.png"
+    ]
+  },
+  {
+    "id": 375,
+    "question": "How should you react when you see a vehicle that displays DANGER HIGHLY FLAMMABLE?",
+    "options": [
+      "keep away from the vehicle",
+      "overtake immediately",
+      "U-turn to avoid that vehicle"
+    ],
+    "images": [
+      "assets/images/q375_1.png"
+    ]
+  },
+  {
+    "id": 376,
+    "question": "You may overtake when you are ______",
+    "options": [
+      "at a pedestrian crossing.",
+      "approaching a road junction.",
+      "on a three-lane expressway."
+    ],
+    "images": [
+      "assets/images/q376_1.png"
+    ]
+  },
+  {
+    "id": 377,
+    "question": "The purpose of the chevron markings is to",
+    "options": [
+      "classify the motorcyclists",
+      "advise pedestrians to cross",
+      "channel traffic"
+    ],
+    "images": [
+      "assets/images/q377_1.png"
+    ]
+  },
+  {
+    "id": 378,
+    "question": "on a one-way road, if you hear an ambulance siren behind you, how should you give way?",
+    "options": [
+      "give way only on the left",
+      "give way on left or right",
+      "stop immediately"
+    ],
+    "images": [
+      "assets/images/q378_1.png"
+    ]
+  },
+  {
+    "id": 379,
+    "question": "When you are about to overtake an omnibus which is stopping at a bus stop, you must",
+    "options": [
+      "alert the bus driver by horn",
+      "accelerate and overtake",
+      "slow down and look out for people crossing in front or behind the bus"
+    ],
+    "images": [
+      "assets/images/q379_1.png"
+    ]
+  },
+  {
+    "id": 380,
+    "question": "What should you do when approaching speed bumps?",
+    "options": [
+      "Speed up to pass the speed bumps faster.",
+      "Slow down.",
+      "Stop and push your car over the speed bumps carefully."
+    ],
+    "images": [
+      "assets/images/q380_1.png"
+    ]
+  },
+  {
+    "id": 381,
+    "question": "the lower the gear,",
+    "options": [
+      "the bigger the power but the lower the speed",
+      "the bigger the power and the higher the speed",
+      "the smaller the power and the lower the speed"
+    ],
+    "images": [
+      "assets/images/q381_1.png"
+    ]
+  },
+  {
+    "id": 382,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles must keep left or right.",
+      "vehicles may pass on either side.",
+      "vehicles may turn left or right."
+    ],
+    "images": [
+      "assets/images/q382_1.png"
+    ]
+  },
+  {
+    "id": 383,
+    "question": "The sign indicates",
+    "options": [
+      "No entry for motor cars.",
+      "No parking for motor cars.",
+      "no overtaking."
+    ],
+    "images": [
+      "assets/images/q383_1.png"
+    ]
+  },
+  {
+    "id": 384,
+    "question": "What should you do when you feel that the brake is not working when you are about to move off?",
+    "options": [
+      "ignore it",
+      "do not drive and call the car technician to check your car",
+      "just drive as per normal"
+    ],
+    "images": [
+      "assets/images/q384_1.png"
+    ]
+  },
+  {
+    "id": 385,
+    "question": "When approaching a pedestrian crossing,",
+    "options": [
+      "you may speed up and bypass it as quickly as possible after ensuring safety.",
+      "you must always stop no matter there are pedestrians around or not.",
+      "you should always slow down no matter there are pedestrians around or not."
+    ],
+    "images": [
+      "assets/images/q385_1.png"
+    ]
+  },
+  {
+    "id": 386,
+    "question": "At an uncontrolled junction, if there is no \"GIVE WAY\" or \"STOP\" sign, and you are going straight, You must:",
+    "options": [
+      "give way to traffic going straight from the right.",
+      "give way to traffic going straight from the left.",
+      "give way to traffic turning right from the right."
+    ],
+    "images": [
+      "assets/images/q386_1.png"
+    ]
+  },
+  {
+    "id": 387,
+    "question": "Which of the following is true?",
+    "options": [
+      "Braking Distance = Reaction Distance - Stopping Distance",
+      "Reaction Distance = Stopping Distance - Braking Distance",
+      "Stopping Distance = Braking Distance - Reaction Distance"
+    ],
+    "images": [
+      "assets/images/q387_1.png"
+    ]
+  },
+  {
+    "id": 388,
+    "question": "If a child is below 8 years old, but his height is above 1.35 meters, when traveling on the road, what must he wear?",
+    "options": [
+      "seat belt",
+      "child restraint",
+      "either seat belt or child restraint"
+    ],
+    "images": [
+      "assets/images/q388_1.png"
+    ]
+  },
+  {
+    "id": 389,
+    "question": "Which of the following statement is correct regarding right-turn pocket?",
+    "options": [
+      "vehicle should never enter into it.",
+      "stay within it until it is clear to complete the turn.",
+      "vehicle should never wait inside it."
+    ],
+    "images": [
+      "assets/images/q389_1.png"
+    ]
+  },
+  {
+    "id": 390,
+    "question": "What should you check for before you reverse the car?",
+    "options": [
+      "pedestrians, children and obstruction.",
+      "whether the back window is clean",
+      "if your reverse light is working"
+    ],
+    "images": [
+      "assets/images/q390_1.png"
+    ]
+  },
+  {
+    "id": 391,
+    "question": "When should you switch on the hazard light, if your vehicle encounters problem on the road?",
+    "options": [
+      "while you are bringing the vehicles to a stop",
+      "only after the vehicle has completely stopped",
+      "after you have displayed the vehicle breakdown sign"
+    ],
+    "images": [
+      "assets/images/q391_1.png"
+    ]
+  },
+  {
+    "id": 392,
+    "question": "If any of the wheels become loose, the vehicle may:",
+    "options": [
+      "wander from side to side accompanied by excessive noise.",
+      "tilt to one side with noises coming from the wheel.",
+      "move without trouble if only one wheel is affected."
+    ],
+    "images": [
+      "assets/images/q392_1.png"
+    ]
+  },
+  {
+    "id": 393,
+    "question": "What is the purpose of seat belts?",
+    "options": [
+      "To keep restless people in their seats.",
+      "For comfort and ergonomic purposes.",
+      "To save lives and improve safety."
+    ],
+    "images": [
+      "assets/images/q393_1.png"
+    ]
+  },
+  {
+    "id": 394,
+    "question": "Visibility is poor, however you noticed there are oncoming vehicles and cyclists, you should",
+    "options": [
+      "switch the headlight from low beam to high beam.",
+      "switch the headlight from high beam to low beam.",
+      "switch off the headlight."
+    ],
+    "images": [
+      "assets/images/q394_1.png"
+    ]
+  },
+  {
+    "id": 395,
+    "question": "What is the legal limit for blood alcohol content per 50ml of blood?",
+    "options": [
+      "40mg",
+      "60mg",
+      "80mg"
+    ],
+    "images": [
+      "assets/images/q395_1.png"
+    ]
+  },
+  {
+    "id": 396,
+    "question": "The sign indicates that ______",
+    "options": [
+      "vehicles on the right must give way to vehicles on the left.",
+      "vehicles are encouraged to change lane.",
+      "two traffic lanes are merging into one."
+    ],
+    "images": [
+      "assets/images/q396_1.png"
+    ]
+  },
+  {
+    "id": 397,
+    "question": "When stopping at a traffic light controlled junction on a upward slope",
+    "options": [
+      "you should always apply the handbrake.",
+      "you must not apply the handbrake.",
+      "you should apply the handbrake only if the foot brake is not functioning."
+    ],
+    "images": [
+      "assets/images/q397_1.png"
+    ]
+  },
+  {
+    "id": 398,
+    "question": "At a junction your passenger says it is safe to proceed. You should:",
+    "options": [
+      "Proceed quickly.",
+      "Check and only proceed when the situation of traffic is safe to do so.",
+      "Sound horn as a precaution and proceed."
+    ],
+    "images": [
+      "assets/images/q398_1.png"
+    ]
+  },
+  {
+    "id": 399,
+    "question": "When the light turns green at a traffic light controlled junction and the vehicle in front moves off very slowly, you should",
+    "options": [
+      "tap your horn repeatedly to rush him.",
+      "wait for him to move off before proceeding.",
+      "overtake him."
+    ],
+    "images": [
+      "assets/images/q399_1.png"
+    ]
+  },
+  {
+    "id": 400,
+    "question": "Omnibus can use the bus lanes:",
+    "options": [
+      "at all times.",
+      "only on weekdays from 7:30am to 9:30am and 4:30pm to 7:00pm.",
+      "only on Saturday 7:30am to 9:30am and 11:30am to 2:00pm."
+    ],
+    "images": [
+      "assets/images/q400_1.png"
+    ]
+  },
+  {
+    "id": 401,
+    "question": "When traffic is moving slowly in queues and vehicles in the lanes on your right are moving more slowly than you are, you ______",
+    "options": [
+      "can not overtake.",
+      "can overtake on the left.",
+      "must always overtake on the right."
+    ],
+    "images": [
+      "assets/images/q401_1.png"
+    ]
+  },
+  {
+    "id": 402,
+    "question": "Where should the Probation Plate (P-Plate) be placed.?",
+    "options": [
+      "On The Bonnet",
+      "Beside the Number Plate",
+      "At the front and back windscreens"
+    ],
+    "images": [
+      "assets/images/q402_1.png"
+    ]
+  },
+  {
+    "id": 403,
+    "question": "The driver is signaling that ______",
+    "options": [
+      "He intends to move out to the right or turn right.",
+      "He intends to move in to the left or turn left.",
+      "He intends to slow down."
+    ],
+    "images": [
+      "assets/images/q403_1.png"
+    ]
+  },
+  {
+    "id": 404,
+    "question": "When approaching a road junction, the traffic lights are amber color and flashing, what should you do?",
+    "options": [
+      "Proceed with caution and prepare to stop if necessary",
+      "Apply the give way rules",
+      "Do Both A and B"
+    ],
+    "images": [
+      "assets/images/q404_1.png"
+    ]
+  },
+  {
+    "id": 405,
+    "question": "You may cross the centre line but not allowed to park your vehicle on either side of a road, which has ______",
+    "options": [
+      "a broken white line along the centre.",
+      "a single continuous white line along the centre.",
+      "two parallel continuous white lines along the centre."
+    ],
+    "images": [
+      "assets/images/q405_1.png"
+    ]
+  },
+  {
+    "id": 406,
+    "question": "ERP stands for",
+    "options": [
+      "Expressway Restriction Program",
+      "Express Regulation Pricing",
+      "Electronic Road Pricing"
+    ],
+    "images": [
+      "assets/images/q406_1.png"
+    ]
+  },
+  {
+    "id": 407,
+    "question": "Which of the following is considered emergency vehicle that you need to give way to?",
+    "options": [
+      "A police car with siren on.",
+      "Any ambulance.",
+      "A fire-engine with siren and flashing lights off."
+    ],
+    "images": [
+      "assets/images/q407_1.png"
+    ]
+  },
+  {
+    "id": 408,
+    "question": "You should cultivate the habit of checking both rear view and wing(side) mirrors at a frequency of about:",
+    "options": [
+      "Once every 5 to 10 seconds.",
+      "Once every 20 to 30 seconds.",
+      "Once in a while."
+    ],
+    "images": [
+      "assets/images/q408_1.png"
+    ]
+  },
+  {
+    "id": 409,
+    "question": "What should you do if you come to a flooded road and you are not sure the water level?",
+    "options": [
+      "slowly move over",
+      "quickly move over",
+      "find an alternative route if possible"
+    ],
+    "images": [
+      "assets/images/q409_1.png"
+    ]
+  },
+  {
+    "id": 410,
+    "question": "A cyclist is using the pedestrian crossing when red man is on, what should you do?",
+    "options": [
+      "Horn to warn him of your right of way and call police",
+      "Flash your headlights at him",
+      "Slow down and let him cross"
+    ],
+    "images": [
+      "assets/images/q410_1.png"
+    ]
+  },
+  {
+    "id": 411,
+    "question": "How should a motorist hold the steering wheel?",
+    "options": [
+      "Both hands should keep a light grip on the steering wheel with hands at the ten-to-two position",
+      "In any position as long as the driver is comfortable",
+      "right hand on the steering wheel, left hand on the gear lever"
+    ],
+    "images": [
+      "assets/images/q411_1.png"
+    ]
+  },
+  {
+    "id": 412,
+    "question": "The sign indicates",
+    "options": [
+      "vehicles may stop to allow boarding or alighting only.",
+      "vehicles not allowed to stop at all.",
+      "vehicles not allowed to stop for loading or unloading."
+    ],
+    "images": [
+      "assets/images/q412_1.png"
+    ]
+  },
+  {
+    "id": 413,
+    "question": "road hogging most likely is caused by",
+    "options": [
+      "fast moving vehicles.",
+      "slow moving vehicles.",
+      "pedestrians."
+    ],
+    "images": [
+      "assets/images/q413_1.png"
+    ]
+  },
+  {
+    "id": 414,
+    "question": "When should you fasten the seat belt and adjust rear view and wing (side) mirrors?",
+    "options": [
+      "Before moving off",
+      "While moving off",
+      "After moving off"
+    ],
+    "images": [
+      "assets/images/q414_1.png"
+    ]
+  },
+  {
+    "id": 415,
+    "question": "Which of the following is correct for the hours 7.00 pm to 7.00 am",
+    "options": [
+      "should drive using dipped headlights",
+      "should drive with headlights on",
+      "vehicles (other than omni buses )should avoid using bus lanes"
+    ],
+    "images": [
+      "assets/images/q415_1.png"
+    ]
+  },
+  {
+    "id": 416,
+    "question": "What should you do when you see traffic light sign on the road (not the real traffic light)?",
+    "options": [
+      "Slow down and prepare to stop.",
+      "Slow down and stop.",
+      "Keep driving as normal speed and stop when traffic light change to red."
+    ],
+    "images": [
+      "assets/images/q416_1.png"
+    ]
+  },
+  {
+    "id": 417,
+    "question": "What should you do when you see white zigzag lines on the road?",
+    "options": [
+      "overtake the car in front of you",
+      "speed up",
+      "slow down"
+    ],
+    "images": [
+      "assets/images/q417_1.png"
+    ]
+  },
+  {
+    "id": 418,
+    "question": "This sign indicate",
+    "options": [
+      "Barrier head",
+      "Zebra crossing ahead",
+      "Sharp deviation - motorists must drive in the direction shown"
+    ],
+    "images": [
+      "assets/images/q418_1.png"
+    ]
+  },
+  {
+    "id": 419,
+    "question": "you should not drive when suffering from",
+    "options": [
+      "epilepsy",
+      "high blood pressure",
+      "obesity"
+    ],
+    "images": [
+      "assets/images/q419_1.png"
+    ]
+  },
+  {
+    "id": 420,
+    "question": "Upon seeing this sign, you should",
+    "options": [
+      "slow down, beware of train approaching.",
+      "speed up, train is giving way.",
+      "slow down, beware of gate closing."
+    ],
+    "images": [
+      "assets/images/q420_1.png"
+    ]
+  },
+  {
+    "id": 421,
+    "question": "The sign indicates",
+    "options": [
+      "accident area ahead.",
+      "series of road humps ahead.",
+      "sea, quay or river bank ahead."
+    ],
+    "images": [
+      "assets/images/q421_1.png"
+    ]
+  },
+  {
+    "id": 422,
+    "question": "The sign indicates",
+    "options": [
+      "Vehicles on fire ahead.",
+      "An accident area ahead, slow down, drive carefully.",
+      "Vehicles carrying dangerous goods are not allowed in the tunnels."
+    ],
+    "images": [
+      "assets/images/q422_1.png"
+    ]
+  },
+  {
+    "id": 423,
+    "question": "When stopping at a junction, leave a safety gap of ____ between your vehicle and the vehicle in front.",
+    "options": [
+      "2 meters",
+      "5 meters",
+      "1 meters"
+    ],
+    "images": [
+      "assets/images/q423_1.png"
+    ]
+  },
+  {
+    "id": 424,
+    "question": "When can you cross the centre line of a two-way road?",
+    "options": [
+      "You are not allowed to cross the centre line at all times.",
+      "when there is an obstruction ahead and the road is narrow.",
+      "when you are approaching a sharp bend."
+    ],
+    "images": [
+      "assets/images/q424_1.png"
+    ]
+  },
+  {
+    "id": 425,
+    "question": "The sign indicates",
+    "options": [
+      "Box junction ahead, you should not remain in it.",
+      "Box junction ahead, you should enter into it.",
+      "Box junction ahead, you should never enter into it."
+    ],
+    "images": [
+      "assets/images/q425_1.png"
+    ]
+  },
+  {
+    "id": 426,
+    "question": "If the brake lights of your vehicle are not functioning,",
+    "options": [
+      "you still can drive it during day time in good weather.",
+      "you should not drive it at all.",
+      "you should drive it to workshop for repair immediately."
+    ],
+    "images": [
+      "assets/images/q426_1.png"
+    ]
+  },
+  {
+    "id": 427,
+    "question": "When can you park in a parking lot reserved for the handicapped?",
+    "options": [
+      "when it is the last available lot in the car park",
+      "when you have the Disabled sign on your vehicle",
+      "never"
+    ],
+    "images": [
+      "assets/images/q427_1.png"
+    ]
+  },
+  {
+    "id": 428,
+    "question": "After overtaking, you should ______",
+    "options": [
+      "return to your original lane when it is safe to do so.",
+      "cut in sharply to your original lane.",
+      "remain in the new lane."
+    ],
+    "images": [
+      "assets/images/q428_1.png"
+    ]
+  },
+  {
+    "id": 429,
+    "question": "When entering a school zone, a driver should:",
+    "options": [
+      "Speed up and exit the school zone quickly so that you won't obstruct the school buses",
+      "Proceed cautiously and maintain within the speed limit of the school zone",
+      "Slow down to 20Km/h so that you can react effectively when a children rushes out of the road"
+    ],
+    "images": [
+      "assets/images/q429_1.png"
+    ]
+  },
+  {
+    "id": 430,
+    "question": "The sign indicates",
+    "options": [
+      "the road ahead narrows on one side.",
+      "lanes are merging ahead.",
+      "Dual-carriageway ends."
+    ],
+    "images": [
+      "assets/images/q430_1.png"
+    ]
+  },
+  {
+    "id": 431,
+    "question": "Which traffic light comes after the amber light?",
+    "options": [
+      "red light.",
+      "green light.",
+      "flashing amber light."
+    ],
+    "images": [
+      "assets/images/q431_1.png"
+    ]
+  },
+  {
+    "id": 432,
+    "question": "In which of the following situation you may use the horn?",
+    "options": [
+      "Near hospital to avoid accidents",
+      "Near zebra crossing to warn old man",
+      "Near junction to warn slow moving car in front of you"
+    ],
+    "images": [
+      "assets/images/q432_1.png"
+    ]
+  },
+  {
+    "id": 433,
+    "question": "When approaching a curve with poor visibility, you should:",
+    "options": [
+      "dip your headlights.",
+      "flash your headlights.",
+      "turn off your headlights. Part 1 Part 2 Part 3 Part 4 Part 5 Part 6 Part 7 Part 8 Part 9 Part 10"
+    ],
+    "images": [
+      "assets/images/q433_1.png"
+    ]
+  }
+]

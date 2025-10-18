@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local server pid
+.server.pid
+
+# Previews
+*_preview.txt
+
+# PDFs (source only, not needed online)
+BTT Question.pdf
+BTT Answer.pdf
+
+# OS noise
+.DS_Store
+Thumbs.db
